@@ -1,0 +1,20 @@
+name: build quotes
+on:
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node build-quotes.mjs
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add quotes.json
+          git commit -m "build quotes.json" || echo "no changes"
+          git push
