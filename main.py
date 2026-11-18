@@ -66,8 +66,3 @@ async def get_random_quote():
         return {"error": "No quotes extracted from the page table."}
         
     return random.choice(quotes_list)
-
-  console.log('wikipedia AFI...');
-  const wiki = parseWiki(await get(WIKI_URL));
-  console.log(`  ${wiki.length}`);
-  pool.push(...wiki);
