@@ -67,6 +67,7 @@ async def get_random_quote():
         
     return random.choice(quotes_list)
 
-@app.get("/all")
-def all_quotes():
-    return table
+  console.log('wikipedia AFI...');
+  const wiki = parseWiki(await get(WIKI_URL));
+  console.log(`  ${wiki.length}`);
+  pool.push(...wiki);
