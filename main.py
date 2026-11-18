@@ -66,3 +66,7 @@ async def get_random_quote():
         return {"error": "No quotes extracted from the page table."}
         
     return random.choice(quotes_list)
+
+@app.get("/all")
+def all_quotes():
+    return quotes_list 
