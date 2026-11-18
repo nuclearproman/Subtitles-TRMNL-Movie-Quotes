@@ -176,3 +176,4 @@ function parseWiki(html) {
   }
 
   return out;
+}
