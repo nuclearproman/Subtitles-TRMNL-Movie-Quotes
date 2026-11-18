@@ -108,6 +108,12 @@ async function main() {
     const film = parseFilmsite(await get(url));
     console.log(`  ${film.length}`);
     pool.push(...film);
+
+    // classic pool exported from Render
+  console.log('wikipedia AFI...');
+  const wiki = parseWiki(await get(WIKI_URL));
+  console.log(`  ${wiki.length}`);
+  pool.push(...wiki);
   }
 
   // optional: your classic pool exported from Render, as an array of {quote, film, character}
