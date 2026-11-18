@@ -69,4 +69,4 @@ async def get_random_quote():
 
 @app.get("/all")
 def all_quotes():
-    return quotes_list 
+    return table
