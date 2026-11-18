@@ -1,8 +1,8 @@
 # 'Subtitles' TRMNL Movie Quote Plugin Backend
 
-This repo is a data pipeline, quotes.json is what the plugin polls.
+This repo is a data pipeline for the Subtitles TRMNL Movie Quote Plugin. quotes.json is what the plugin polls.
 
-This plugin generates random movie quotes on your TRMNL from BuzzFeed, filmsite.org and Wikipedia and makes a guessing game out of it.
+The plugin generates random movie quotes on your TRMNL from BuzzFeed, filmsite.org and Wikipedia and makes a guessing game out of it.
 
 Quotes from BuzzFeed, filmsite.org and Wikipedia
 
