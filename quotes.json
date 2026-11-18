@@ -1326,7 +1326,7 @@
       "source": "classic"
     },
     {
-      "quote": "There's no place like home."
+      "quote": "There's no place like home.",
       "film": "The Wizard of Oz",
       "character": "Dorothy Gale",
       "actor": "Judy Garland",
@@ -1479,14 +1479,14 @@
       "actor": "Lawrence Tierney",
       "source": "filmsite"
     },
-	{
+    {
       "quote": "Mmm-mmmm. That is a tasty burger. Vincent, ever have a Big Kahuna Burger?",
       "film": "Pulp Fiction",
       "character": "Jules Winnfield",
       "actor": "Samuel L. Jackson",
       "source": "filmsite"
     },
-	{
+    {
       "quote": "Oh man, I shot Marvin in the face!",
       "film": "Pulp Fiction",
       "character": "Vincent Vega",
@@ -1668,7 +1668,7 @@
       "actor": "Romany Malco",
       "source": "filmsite"
     },
-	{
+    {
       "quote": "You are without doubt the worst pirate I’ve ever heard of.\" - \"But you have heard of me.",
       "film": "Pirates of the Caribbean: The Curse of the Black Pearl",
       "character": "James Norrington and Jack Sparrow",
