@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-18",
-  "count": 254,
+  "count": 352,
   "quotes": [
     {
       "quote": "There are only two things I can't stand in this world: People who are intolerant of other people's cultures, and the Dutch.",
@@ -710,6 +710,699 @@
       "source": "filmsite"
     },
     {
+      "quote": "Frankly, my dear, I don't give a damn.",
+      "film": "Gone with the Wind",
+      "character": "Rhett Butler",
+      "actor": "Clark Gable",
+      "source": "classic"
+    },
+    {
+      "quote": "I'm gonna make him an offer he can't refuse.",
+      "film": "The Godfather",
+      "character": "Vito Corleone",
+      "actor": "Marlon Brando",
+      "source": "classic"
+    },
+    {
+      "quote": "You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am.\"",
+      "film": "On the Waterfront",
+      "character": "Terry Malloy",
+      "actor": "Marlon Brando",
+      "source": "classic"
+    },
+    {
+      "quote": "Toto, I've a feeling we're not in Kansas anymore.\"",
+      "film": "The Wizard of Oz",
+      "character": "Dorothy Gale",
+      "actor": "Judy Garland",
+      "source": "classic"
+    },
+    {
+      "quote": "Here's looking at you, kid.",
+      "film": "Casablanca",
+      "character": "Rick Blaine",
+      "actor": "Humphrey Bogart",
+      "source": "classic"
+    },
+    {
+      "quote": "Go ahead, make my day.",
+      "film": "Sudden Impact",
+      "character": "Harry Callahan",
+      "actor": "Clint Eastwood",
+      "source": "classic"
+    },
+    {
+      "quote": "All right, Mr. DeMille, I'm ready for my close-up.",
+      "film": "Sunset Boulevard",
+      "character": "Norma Desmond",
+      "actor": "Gloria Swanson",
+      "source": "classic"
+    },
+    {
+      "quote": "May the Force be with you.",
+      "film": "Star Wars",
+      "character": "Han Solo",
+      "actor": "Harrison Ford",
+      "source": "classic"
+    },
+    {
+      "quote": "Fasten your seatbelts. It's going to be a bumpy night.",
+      "film": "All About Eve",
+      "character": "Margo Channing",
+      "actor": "Bette Davis",
+      "source": "classic"
+    },
+    {
+      "quote": "You talkin' to me?",
+      "film": "Taxi Driver",
+      "character": "Travis Bickle",
+      "actor": "Robert De Niro",
+      "source": "classic"
+    },
+    {
+      "quote": "What we've got here is failure to communicate.\"",
+      "film": "Cool Hand Luke",
+      "character": "Captain",
+      "actor": "Strother Martin",
+      "source": "classic"
+    },
+    {
+      "quote": "I love the smell of napalm in the morning.",
+      "film": "Apocalypse Now",
+      "character": "Lt. Col. Bill Kilgore",
+      "actor": "Robert Duvall",
+      "source": "classic"
+    },
+    {
+      "quote": "Love means never having to say you're sorry.",
+      "film": "Love Story",
+      "character": "Jennifer Cavalleri, Oliver Barrett IV",
+      "actor": "Ali MacGraw Ryan O'Neal",
+      "source": "classic"
+    },
+    {
+      "quote": "The stuff that dreams are made of.\"",
+      "film": "The Maltese Falcon",
+      "character": "Sam Spade",
+      "actor": "Humphrey Bogart",
+      "source": "classic"
+    },
+    {
+      "quote": "E.T. phone home.",
+      "film": "E.T. the Extra-Terrestrial",
+      "character": "E.T.",
+      "actor": "Pat Welsh",
+      "source": "classic"
+    },
+    {
+      "quote": "They call me Mister Tibbs!",
+      "film": "In the Heat of the Night",
+      "character": "Virgil Tibbs",
+      "actor": "Sidney Poitier",
+      "source": "classic"
+    },
+    {
+      "quote": "Rosebud.",
+      "film": "Citizen Kane",
+      "character": "Charles Foster Kane",
+      "actor": "Orson Welles",
+      "source": "classic"
+    },
+    {
+      "quote": "Made it, Ma! Top of the world!",
+      "film": "White Heat",
+      "character": "Arthur \"Cody\" Jarrett",
+      "actor": "James Cagney",
+      "source": "classic"
+    },
+    {
+      "quote": "I'm as mad as hell, and I'm not going to take this anymore!",
+      "film": "Network",
+      "character": "Howard Beale",
+      "actor": "Peter Finch",
+      "source": "classic"
+    },
+    {
+      "quote": "Louis, I think this is the beginning of a beautiful friendship.",
+      "film": "Casablanca",
+      "character": "Rick Blaine",
+      "actor": "Humphrey Bogart",
+      "source": "classic"
+    },
+    {
+      "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+      "film": "The Silence of the Lambs",
+      "character": "Hannibal Lecter",
+      "actor": "Anthony Hopkins",
+      "source": "classic"
+    },
+    {
+      "quote": "Bond. James Bond.",
+      "film": "Dr. No",
+      "character": "James Bond",
+      "actor": "Sean Connery",
+      "source": "classic"
+    },
+    {
+      "quote": "There's no place like home.\"",
+      "film": "The Wizard of Oz",
+      "character": "Dorothy Gale",
+      "actor": "Judy Garland",
+      "source": "classic"
+    },
+    {
+      "quote": "I am big! It's the pictures that got small.",
+      "film": "Sunset Boulevard",
+      "character": "Norma Desmond",
+      "actor": "Gloria Swanson",
+      "source": "classic"
+    },
+    {
+      "quote": "Show me the money!",
+      "film": "Jerry Maguire",
+      "character": "Rod Tidwell",
+      "actor": "Cuba Gooding Jr.",
+      "source": "classic"
+    },
+    {
+      "quote": "Why don't you come up sometime and see me?\"",
+      "film": "She Done Him Wrong",
+      "character": "Lady Lou",
+      "actor": "Mae West",
+      "source": "classic"
+    },
+    {
+      "quote": "I'm walkin' here! I'm walkin' here! \"",
+      "film": "Midnight Cowboy",
+      "character": "Ratso\" Rizzo",
+      "actor": "Dustin Hoffman",
+      "source": "classic"
+    },
+    {
+      "quote": "Play it, Sam. Play ' As Time Goes By.'\"",
+      "film": "Casablanca",
+      "character": "Ilsa Lund",
+      "actor": "Ingrid Bergman",
+      "source": "classic"
+    },
+    {
+      "quote": "You can't handle the truth!",
+      "film": "A Few Good Men",
+      "character": "Col. Nathan R. Jessup",
+      "actor": "Jack Nicholson",
+      "source": "classic"
+    },
+    {
+      "quote": "I want to be alone.",
+      "film": "Grand Hotel",
+      "character": "Grusinskaya",
+      "actor": "Greta Garbo",
+      "source": "classic"
+    },
+    {
+      "quote": "After all, tomorrow is another day!",
+      "film": "Gone with the Wind",
+      "character": "Scarlett O'Hara",
+      "actor": "Vivien Leigh",
+      "source": "classic"
+    },
+    {
+      "quote": "Round up the usual suspects.",
+      "film": "Casablanca",
+      "character": "Capt. Louis Renault",
+      "actor": "Claude Rains",
+      "source": "classic"
+    },
+    {
+      "quote": "I'll have what she's having.",
+      "film": "When Harry Met Sally...",
+      "character": "Customer",
+      "actor": "Estelle Reiner",
+      "source": "classic"
+    },
+    {
+      "quote": "You know how to whistle, don't you, Steve? You just put your lips together and blow.",
+      "film": "To Have and Have Not",
+      "character": "Marie \"Slim\" Browning",
+      "actor": "Lauren Bacall",
+      "source": "classic"
+    },
+    {
+      "quote": "You're gonna need a bigger boat.\"",
+      "film": "Jaws",
+      "character": "Martin Brody",
+      "actor": "Roy Scheider",
+      "source": "classic"
+    },
+    {
+      "quote": "Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!\"",
+      "film": "The Treasure of the Sierra Madre",
+      "character": "Gold Hat",
+      "actor": "Alfonso Bedoya",
+      "source": "classic"
+    },
+    {
+      "quote": "I'll be back.",
+      "film": "The Terminator",
+      "character": "The Terminator",
+      "actor": "Arnold Schwarzenegger",
+      "source": "classic"
+    },
+    {
+      "quote": "Today, I consider myself the luckiest man on the face of the Earth.\"",
+      "film": "The Pride of the Yankees",
+      "character": "Lou Gehrig",
+      "actor": "Gary Cooper",
+      "source": "classic"
+    },
+    {
+      "quote": "If you build it, he will come.\"",
+      "film": "Field of Dreams",
+      "character": "Shoeless Joe Jackson",
+      "actor": "Ray Liotta (voice)",
+      "source": "classic"
+    },
+    {
+      "quote": "My mama always said life was like a box of chocolates. You never know what you're gonna get.",
+      "film": "Forrest Gump",
+      "character": "Forrest Gump",
+      "actor": "Tom Hanks",
+      "source": "classic"
+    },
+    {
+      "quote": "We rob banks.",
+      "film": "Bonnie and Clyde",
+      "character": "Clyde Barrow",
+      "actor": "Warren Beatty",
+      "source": "classic"
+    },
+    {
+      "quote": "Plastics.",
+      "film": "The Graduate",
+      "character": "Mr. Maguire",
+      "actor": "Walter Brooke",
+      "source": "classic"
+    },
+    {
+      "quote": "We'll always have Paris.",
+      "film": "Casablanca",
+      "character": "Rick Blaine",
+      "actor": "Humphrey Bogart",
+      "source": "classic"
+    },
+    {
+      "quote": "I see dead people.",
+      "film": "The Sixth Sense",
+      "character": "Cole Sear",
+      "actor": "Haley Joel Osment",
+      "source": "classic"
+    },
+    {
+      "quote": "Stella! Hey, Stella!",
+      "film": "A Streetcar Named Desire",
+      "character": "Stanley Kowalski",
+      "actor": "Marlon Brando",
+      "source": "classic"
+    },
+    {
+      "quote": "Oh, Jerry, don't let's ask for the moon. We have the stars.",
+      "film": "Now, Voyager",
+      "character": "Charlotte Vale",
+      "actor": "Bette Davis",
+      "source": "classic"
+    },
+    {
+      "quote": "Shane. Shane. Come back!",
+      "film": "Shane",
+      "character": "Joey Starrett",
+      "actor": "Brandon deWilde",
+      "source": "classic"
+    },
+    {
+      "quote": "Well, nobody's perfect.",
+      "film": "Some Like It Hot",
+      "character": "Osgood Fielding III",
+      "actor": "Joe E. Brown",
+      "source": "classic"
+    },
+    {
+      "quote": "It's alive! It's alive!",
+      "film": "Frankenstein",
+      "character": "Henry Frankenstein",
+      "actor": "Colin Clive",
+      "source": "classic"
+    },
+    {
+      "quote": "Houston, we have a problem.\"",
+      "film": "Apollo 13",
+      "character": "Jim Lovell",
+      "actor": "Tom Hanks",
+      "source": "classic"
+    },
+    {
+      "quote": "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?\"",
+      "film": "Dirty Harry",
+      "character": "Harry Callahan",
+      "actor": "Clint Eastwood",
+      "source": "classic"
+    },
+    {
+      "quote": "You had me at 'hello.",
+      "film": "Jerry Maguire",
+      "character": "Dorothy Boyd",
+      "actor": "Renée Zellweger",
+      "source": "classic"
+    },
+    {
+      "quote": "One morning I shot an elephant in my pajamas. How he got in my pajamas, I don't know.\"",
+      "film": "Animal Crackers",
+      "character": "Capt. Geoffrey T. Spaulding",
+      "actor": "Groucho Marx",
+      "source": "classic"
+    },
+    {
+      "quote": "There's no crying in baseball!",
+      "film": "A League of Their Own",
+      "character": "Jimmy Dugan",
+      "actor": "Tom Hanks",
+      "source": "classic"
+    },
+    {
+      "quote": "La-dee-da, la-dee-da.",
+      "film": "Annie Hall",
+      "character": "Annie Hall",
+      "actor": "Diane Keaton",
+      "source": "classic"
+    },
+    {
+      "quote": "A boy's best friend is his mother.",
+      "film": "Psycho",
+      "character": "Norman Bates",
+      "actor": "Anthony Perkins",
+      "source": "classic"
+    },
+    {
+      "quote": "Greed, for lack of a better word, is good.\"",
+      "film": "Wall Street",
+      "character": "Gordon Gekko",
+      "actor": "Michael Douglas",
+      "source": "classic"
+    },
+    {
+      "quote": "Keep your friends close, but your enemies closer.\"",
+      "film": "The Godfather Part II",
+      "character": "Michael Corleone",
+      "actor": "Al Pacino",
+      "source": "classic"
+    },
+    {
+      "quote": "As God is my witness, I'll never be hungry again.",
+      "film": "Gone with the Wind",
+      "character": "Scarlett O'Hara",
+      "actor": "Vivien Leigh",
+      "source": "classic"
+    },
+    {
+      "quote": "Well, here's another nice mess you've gotten me into!\"",
+      "film": "Sons of the Desert",
+      "character": "Oliver",
+      "actor": "Oliver Hardy",
+      "source": "classic"
+    },
+    {
+      "quote": "Say 'hello' to my little friend!",
+      "film": "Scarface",
+      "character": "Tony Montana",
+      "actor": "Al Pacino",
+      "source": "classic"
+    },
+    {
+      "quote": "What a dump.\"",
+      "film": "Beyond the Forest",
+      "character": "Rosa Moline",
+      "actor": "Bette Davis",
+      "source": "classic"
+    },
+    {
+      "quote": "Mrs. Robinson, you're trying to seduce me. Aren't you?",
+      "film": "The Graduate",
+      "character": "Benjamin Braddock",
+      "actor": "Dustin Hoffman",
+      "source": "classic"
+    },
+    {
+      "quote": "Elementary, my dear Watson.\"",
+      "film": "The Adventures of Sherlock Holmes",
+      "character": "Sherlock Holmes",
+      "actor": "Basil Rathbone",
+      "source": "classic"
+    },
+    {
+      "quote": "Take your stinking paws off me, you damned dirty ape.",
+      "film": "Planet of the Apes",
+      "character": "George Taylor",
+      "actor": "Charlton Heston",
+      "source": "classic"
+    },
+    {
+      "quote": "Of all the gin joints in all the towns in all the world, she walks into mine.",
+      "film": "Casablanca",
+      "character": "Rick Blaine",
+      "actor": "Humphrey Bogart",
+      "source": "classic"
+    },
+    {
+      "quote": "Here's Johnny!\"",
+      "film": "The Shining",
+      "character": "Jack Torrance",
+      "actor": "Jack Nicholson",
+      "source": "classic"
+    },
+    {
+      "quote": "They're here!",
+      "film": "Poltergeist",
+      "character": "Carol Anne Freeling",
+      "actor": "Heather O'Rourke",
+      "source": "classic"
+    },
+    {
+      "quote": "Is it safe?",
+      "film": "Marathon Man",
+      "character": "Dr. Christian Szell",
+      "actor": "Laurence Olivier",
+      "source": "classic"
+    },
+    {
+      "quote": "Wait a minute, wait a minute. You ain't heard nothin' yet!\"",
+      "film": "The Jazz Singer",
+      "character": "Jakie Rabinowitz/Jack Robin",
+      "actor": "Al Jolson",
+      "source": "classic"
+    },
+    {
+      "quote": "No wire hangers, ever!\"",
+      "film": "Mommie Dearest",
+      "character": "Joan Crawford",
+      "actor": "Faye Dunaway",
+      "source": "classic"
+    },
+    {
+      "quote": "Mother of mercy, is this the end of Rico?",
+      "film": "Little Caesar",
+      "character": "Rico Bandello",
+      "actor": "Edward G. Robinson",
+      "source": "classic"
+    },
+    {
+      "quote": "Forget it, Jake, it's Chinatown.",
+      "film": "Chinatown",
+      "character": "Lawrence Walsh",
+      "actor": "Joe Mantell",
+      "source": "classic"
+    },
+    {
+      "quote": "I have always depended on the kindness of strangers.",
+      "film": "A Streetcar Named Desire",
+      "character": "Blanche DuBois",
+      "actor": "Vivien Leigh",
+      "source": "classic"
+    },
+    {
+      "quote": "Hasta la vista, baby.",
+      "film": "Terminator 2: Judgment Day",
+      "character": "The Terminator",
+      "actor": "Arnold Schwarzenegger",
+      "source": "classic"
+    },
+    {
+      "quote": "Soylent Green is people!",
+      "film": "Soylent Green",
+      "character": "Det. Robert Thorn",
+      "actor": "Charlton Heston",
+      "source": "classic"
+    },
+    {
+      "quote": "Open the pod bay doors, HAL.",
+      "film": "2001: A Space Odyssey",
+      "character": "Dave Bowman",
+      "actor": "Keir Dullea",
+      "source": "classic"
+    },
+    {
+      "quote": "Striker: \"Surely you can't be serious.\" Rumack: \"I am serious... and don't call me Shirley.",
+      "film": "Airplane!",
+      "character": "Ted Striker and Dr. Rumack",
+      "actor": "Robert Hays and Leslie Nielsen",
+      "source": "classic"
+    },
+    {
+      "quote": "Yo, Adrian!",
+      "film": "Rocky",
+      "character": "Rocky Balboa",
+      "actor": "Sylvester Stallone",
+      "source": "classic"
+    },
+    {
+      "quote": "Hello, gorgeous.",
+      "film": "Funny Girl",
+      "character": "Fanny Brice",
+      "actor": "Barbra Streisand",
+      "source": "classic"
+    },
+    {
+      "quote": "Toga! Toga!",
+      "film": "National Lampoon's Animal House",
+      "character": "John \"Bluto\" Blutarsky",
+      "actor": "John Belushi",
+      "source": "classic"
+    },
+    {
+      "quote": "Listen to them. Children of the night. What music they make.",
+      "film": "Dracula",
+      "character": "Count Dracula",
+      "actor": "Bela Lugosi",
+      "source": "classic"
+    },
+    {
+      "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.\"",
+      "film": "King Kong",
+      "character": "Carl Denham",
+      "actor": "Robert Armstrong",
+      "source": "classic"
+    },
+    {
+      "quote": "My precious.",
+      "film": "The Lord of the Rings: The Two Towers",
+      "character": "Gollum",
+      "actor": "Andy Serkis",
+      "source": "classic"
+    },
+    {
+      "quote": "Attica! Attica!",
+      "film": "Dog Day Afternoon",
+      "character": "Sonny Wortzik",
+      "actor": "Al Pacino",
+      "source": "classic"
+    },
+    {
+      "quote": "Sawyer, you're going out a youngster, but you've got to come back a star!",
+      "film": "42nd Street",
+      "character": "Julian Marsh",
+      "actor": "Warner Baxter",
+      "source": "classic"
+    },
+    {
+      "quote": "Listen to me, mister. You're my knight in shining armor. Don't you forget it. You're going to get back on that horse, and I'm going to be right behind you, holding on tight, and away we're gonna go, go, go!",
+      "film": "On Golden Pond",
+      "character": "Ethel Thayer",
+      "actor": "Katharine Hepburn",
+      "source": "classic"
+    },
+    {
+      "quote": "Tell 'em to go out there with all they got and win just one for the Gipper.",
+      "film": "Knute Rockne, All American",
+      "character": "George Gipp",
+      "actor": "Ronald Reagan",
+      "source": "classic"
+    },
+    {
+      "quote": "A martini. Shaken, not stirred.\"",
+      "film": "Goldfinger",
+      "character": "James Bond",
+      "actor": "Sean Connery",
+      "source": "classic"
+    },
+    {
+      "quote": "Who's on first? \"",
+      "film": "The Naughty Nineties",
+      "character": "Dexter",
+      "actor": "Bud Abbott",
+      "source": "classic"
+    },
+    {
+      "quote": "Cinderella story. Outta nowhere. A former greenskeeper, now, about to become the Masters champion. It looks like a mirac...It's in the hole! It's in the hole! It's in the hole!",
+      "film": "Caddyshack",
+      "character": "Carl Spackler",
+      "actor": "Bill Murray",
+      "source": "classic"
+    },
+    {
+      "quote": "Life is a banquet, and most poor suckers are starving to death!",
+      "film": "Auntie Mame",
+      "character": "Mame Dennis",
+      "actor": "Rosalind Russell",
+      "source": "classic"
+    },
+    {
+      "quote": "I feel the need—the need for speed!",
+      "film": "Top Gun",
+      "character": "Pete Mitchell and Nick Bradshaw",
+      "actor": "Tom Cruise and Anthony Edwards",
+      "source": "classic"
+    },
+    {
+      "quote": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
+      "film": "Dead Poets Society",
+      "character": "John Keating",
+      "actor": "Robin Williams",
+      "source": "classic"
+    },
+    {
+      "quote": "My mother thanks you. My father thanks you. My sister thanks you. And I thank you.\"",
+      "film": "Yankee Doodle Dandy",
+      "character": "George M. Cohan",
+      "actor": "James Cagney",
+      "source": "classic"
+    },
+    {
+      "quote": "Nobody puts Baby in a corner.",
+      "film": "Dirty Dancing",
+      "character": "Johnny Castle",
+      "actor": "Patrick Swayze",
+      "source": "classic"
+    },
+    {
+      "quote": "I'll get you, my pretty, and your little dog too!",
+      "film": "The Wizard of Oz",
+      "character": "Wicked Witch of the West",
+      "actor": "Margaret Hamilton",
+      "source": "classic"
+    },
+    {
+      "quote": "I'm the king of the world!\"",
+      "film": "Titanic",
+      "character": "Jack Dawson",
+      "actor": "Leonardo DiCaprio",
+      "source": "classic"
+    },
+    {
+      "quote": "There's no place like home.\" (also said earlier in the movie)",
+      "film": "The Wizard of Oz",
+      "character": "Dorothy Gale",
+      "actor": "Judy Garland",
+      "source": "classic"
+    },
+    {
       "quote": "No, I don't hate Balboa. But I pity the fool, and I will destroy any man who tries to take what I got!",
       "film": "Rocky III",
       "character": "",
@@ -859,13 +1552,6 @@
     {
       "quote": "As far back as I can remember, I always wanted to be a gangster...To me being a gangster was better than being president of the United States.",
       "film": "GoodFellas",
-      "character": "",
-      "actor": "",
-      "source": "filmsite"
-    },
-    {
-      "quote": "Hasta la vista , baby.",
-      "film": "Terminator 2: Judgment Day",
       "character": "",
       "actor": "",
       "source": "filmsite"
