@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-18",
-  "count": 380,
+  "count": 340,
   "quotes": [
     {
       "quote": "There are only two things I can't stand in this world: People who are intolerant of other people's cultures, and the Dutch.",
@@ -17,13 +17,6 @@
       "source": "buzzfeed"
     },
     {
-      "quote": "I was on top! Who the fuck is on top their first time!",
-      "film": "Lady Bird",
-      "character": "Christine \"Lady Bird' McPherson",
-      "actor": "Saoirse Ronan",
-      "source": "buzzfeed"
-    },
-    {
       "quote": "Babe, look. If this relationship is going to work out between us, I need to feel free to party with a bunch of strangers whenever I feel like it. I will text you.",
       "film": "The Lego Movie",
       "character": "Batman",
@@ -35,13 +28,6 @@
       "film": "Walk Hard: The Dewey Cox Story",
       "character": "Pa Cox",
       "actor": "Raymond J. Barry",
-      "source": "buzzfeed"
-    },
-    {
-      "quote": "By the way, our son Hezekiah hates us cause he knows we're both closeted, but we're trying to make it work for him. But he's not happy. And yeah, guess what? The deacon's fucking the evangelist, man! He's fucking the evangelist!",
-      "film": "Bottoms",
-      "character": "Josie",
-      "actor": "Ayo Edebiri",
       "source": "buzzfeed"
     },
     {
@@ -82,7 +68,7 @@
     {
       "quote": "I am McLovin!",
       "film": "Superbad",
-      "character": "Fogell/McLovin",
+      "character": "Fogell",
       "actor": "Christopher Mintz-Plasse",
       "source": "buzzfeed"
     },
@@ -192,13 +178,6 @@
       "source": "buzzfeed"
     },
     {
-      "quote": "I'm glad he's single because I'm going to climb that like a tree.",
-      "film": "Bridesmaids",
-      "character": "Megan",
-      "actor": "Melissa McCarthy",
-      "source": "buzzfeed"
-    },
-    {
       "quote": "It's the weekend, Budnick. I don't know you. You do not exist.",
       "film": "The Hangover",
       "character": "Phil Wenneck",
@@ -210,13 +189,6 @@
       "film": "Napoleon Dynamite",
       "character": "Pedro Sánchez",
       "actor": "Efren Ramirez",
-      "source": "buzzfeed"
-    },
-    {
-      "quote": "You are a human affront to all women, and I am a woman.",
-      "film": "When Harry Met Sally...",
-      "character": "Sally Albright",
-      "actor": "Meg Ryan",
       "source": "buzzfeed"
     },
     {
@@ -298,7 +270,7 @@
     },
     {
       "quote": "Gentlemen, you can't fight in here. This is the war room!",
-      "film": "Doctor Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "film": "Doctor Strangelove",
       "character": "President Merkin Muffley",
       "actor": "Peter Sellers",
       "source": "buzzfeed"
@@ -371,13 +343,6 @@
       "film": "Ferris Bueller's Day Off",
       "character": "Ferris Bueller",
       "actor": "Matthew Broderick",
-      "source": "buzzfeed"
-    },
-    {
-      "quote": "I am serious…and don't call me Shirley.",
-      "film": "Airplane!",
-      "character": "Dr. Rumack",
-      "actor": "Leslie Nielsen",
       "source": "buzzfeed"
     },
     {
@@ -605,7 +570,7 @@
       "source": "buzzfeed"
     },
     {
-      "quote": "According to the map, we've only gone 4 inches.",
+      "quote": "She gave me a bunch of crap about me not listening to her, or something. I don't know, I wasn't really paying attention.",
       "film": "Dumb and Dumber",
       "character": "Harry Dunne",
       "actor": "Jeff Daniels",
@@ -616,13 +581,6 @@
       "film": "The Big Lebowski",
       "character": "The Dude",
       "actor": "Jeff Bridges",
-      "source": "buzzfeed"
-    },
-    {
-      "quote": "You're dizzy because you played Russian roulette with your vagina.",
-      "film": "Obvious Child",
-      "character": "Donna Stern",
-      "actor": "Jenny Slate",
       "source": "buzzfeed"
     },
     {
@@ -696,283 +654,234 @@
       "source": "buzzfeed"
     },
     {
-      "quote": "Personally, Veda's convinced me that alligators have the right idea. They eat their young.",
-      "film": "Mildred Pierce",
-      "character": "",
-      "actor": "",
-      "source": "filmsite"
-    },
-    {
-      "quote": "If I'd been a ranch, they would've named me the Bar Nothin'.",
-      "film": "Gilda",
-      "character": "",
-      "actor": "",
-      "source": "filmsite"
-    },
-    {
       "quote": "Fasten your seat belts - it's going to be a bumpy night.",
       "film": "All About Eve",
-      "character": "",
-      "actor": "",
+      "character": "Margo Channing",
+      "actor": "Bette Davis",
       "source": "filmsite"
     },
     {
       "quote": "Stand up. Your father's passing.",
       "film": "To Kill a Mockingbird",
-      "character": "",
-      "actor": "",
+      "character": "Reverend Sykes",
+      "actor": "Bill Walker",
       "source": "filmsite"
     },
     {
       "quote": "What we've got here...is failure to communicate.",
       "film": "Cool Hand Luke",
-      "character": "",
-      "actor": "",
+      "character": "Captain",
+      "actor": "Strother Martin",
       "source": "filmsite"
     },
     {
       "quote": "They call me Mister Tibbs!",
       "film": "In the Heat of the Night",
-      "character": "",
-      "actor": "",
+      "character": "Virgil Tibbs",
+      "actor": "Sidney Poitier",
       "source": "filmsite"
     },
     {
       "quote": "Do you enjoy...knives?",
       "film": "Harold and Maude",
-      "character": "",
-      "actor": "",
+      "character": "Maude",
+      "actor": "Ruth Gordon",
       "source": "filmsite"
     },
     {
       "quote": "Now let's you just drop them pants...Just take 'em right off... I bet you can squeal like a pig.",
       "film": "Deliverance",
-      "character": "",
-      "actor": "",
+      "character": "Mountain Man",
+      "actor": "Bill McKinney",
       "source": "filmsite"
     },
     {
       "quote": "Look how they massacred my boy.",
       "film": "The Godfather",
-      "character": "",
-      "actor": "",
+      "character": "Vito Corleone",
+      "actor": "Marlon Brando",
       "source": "filmsite"
     },
     {
       "quote": "Is it safe?",
       "film": "Marathon Man",
-      "character": "",
-      "actor": "",
-      "source": "filmsite"
-    },
-    {
-      "quote": "...You talkin' to me? Well, I'm the only one here.",
-      "film": "Taxi Driver",
-      "character": "",
-      "actor": "",
-      "source": "filmsite"
-    },
-    {
-      "quote": "I love the smell of napalm in the morning...Smells like victory.",
-      "film": "Apocalypse Now",
-      "character": "",
-      "actor": "",
+      "character": "Dr. Christian Szell",
+      "actor": "Laurence Olivier",
       "source": "filmsite"
     },
     {
       "quote": "You're not too smart, are you? I like that in a man.",
       "film": "Body Heat",
-      "character": "",
-      "actor": "",
+      "character": "Matty Walker",
+      "actor": "Kathleen Turner",
       "source": "filmsite"
     },
     {
       "quote": "It's not the years, honey. It's the mileage.",
       "film": "Raiders of the Lost Ark",
-      "character": "",
-      "actor": "",
+      "character": "Indiana Jones",
+      "actor": "Harrison Ford",
       "source": "filmsite"
     },
     {
       "quote": "These go to 11.",
       "film": "This is Spinal Tap",
-      "character": "",
-      "actor": "",
+      "character": "Nigel Tufnel",
+      "actor": "Christopher Guest",
       "source": "filmsite"
     },
     {
       "quote": "Nobody puts Baby in a corner.",
       "film": "Dirty Dancing",
-      "character": "",
-      "actor": "",
+      "character": "Johnny Castle",
+      "actor": "Patrick Swayze",
       "source": "filmsite"
     },
     {
       "quote": "Hello. My name is Inigo Montoya. You killed my father. Prepare to die.",
       "film": "The Princess Bride",
-      "character": "",
-      "actor": "",
+      "character": "Inigo Montoya",
+      "actor": "Mandy Patinkin",
       "source": "filmsite"
     },
     {
       "quote": "Inconceivable!\" - \"You keep using that word. I do not think it means what you think it means.",
       "film": "The Princess Bride",
-      "character": "",
-      "actor": "",
+      "character": "Vizzini and Inigo Montoya",
+      "actor": "Wallace Shawn and Mandy Patinkin",
       "source": "filmsite"
     },
     {
       "quote": "Have fun storming the castle!",
       "film": "The Princess Bride",
-      "character": "",
-      "actor": "",
+      "character": "Miracle Max",
+      "actor": "Billy Crystal",
       "source": "filmsite"
     },
     {
       "quote": "As you wish.",
       "film": "The Princess Bride",
-      "character": "",
-      "actor": "",
+      "character": "Westley",
+      "actor": "Cary Elwes",
       "source": "filmsite"
     },
     {
       "quote": "Son, you got a panty on your head.",
       "film": "Raising Arizona",
-      "character": "",
-      "actor": "",
+      "character": "Hayseed in the Pickup",
+      "actor": "John O'Donnal",
       "source": "filmsite"
     },
     {
-      "quote": "I have come here to chew bubble gum and kick ass. And I'm all out of bubble gum.\" - NADA (\"Rowdy",
+      "quote": "I have come here to chew bubble gum and kick ass. And I'm all out of bubble gum.",
       "film": "They Live",
-      "character": "",
-      "actor": "",
+      "character": "Nada",
+      "actor": "Roddy Piper",
       "source": "filmsite"
     },
     {
       "quote": "Hey! Is this heaven?\" - \"No, it's Iowa.",
       "film": "Field of Dreams",
-      "character": "",
-      "actor": "",
+      "character": "Shoeless Joe Jackson and Ray Kinsella",
+      "actor": "Ray Liotta and Kevin Costner",
       "source": "filmsite"
     },
     {
       "quote": "This is Ohio. I mean, if you don't have a brewski in your hand, you might as well be wearin' a dress.",
       "film": "Heathers",
-      "character": "",
-      "actor": "",
+      "character": "Jason Dean",
+      "actor": "Christian Slater",
       "source": "filmsite"
     },
     {
       "quote": "I gave her my heart and she gave me a pen.",
       "film": "Say Anything...",
-      "character": "",
-      "actor": "",
-      "source": "filmsite"
-    },
-    {
-      "quote": "I'll have what she's having.",
-      "film": "When Harry Met Sally...",
-      "character": "",
-      "actor": "",
+      "character": "Lloyd Dobler",
+      "actor": "John Cusack",
       "source": "filmsite"
     },
     {
       "quote": "But I'm funny how? I mean, funny like I'm a clown? I amuse you?",
       "film": "GoodFellas",
-      "character": "",
-      "actor": "",
+      "character": "Tommy DeVito",
+      "actor": "Joe Pesci",
       "source": "filmsite"
     },
     {
       "quote": "It might be a tumor.\" - \"It's not a tumor!",
       "film": "Kindergarten Cop",
-      "character": "",
-      "actor": "",
+      "character": "John Kimble",
+      "actor": "Arnold Schwarzenegger",
       "source": "filmsite"
     },
     {
       "quote": "He didn't get out of the cock-a-doodie car!",
       "film": "Misery",
-      "character": "",
-      "actor": "",
+      "character": "Annie Wilkes",
+      "actor": "Kathy Bates",
       "source": "filmsite"
     },
     {
       "quote": "Get outta here! And don't come back for five to seven days!",
       "film": "My Girl",
-      "character": "",
-      "actor": "",
+      "character": "Vada Sultenfuss",
+      "actor": "Anna Chlumsky",
       "source": "filmsite"
     },
     {
       "quote": "Oh, and Senator, just one more thing. Love your suit.",
       "film": "The Silence of the Lambs",
-      "character": "",
-      "actor": "",
+      "character": "Hannibal Lecter",
+      "actor": "Anthony Hopkins",
       "source": "filmsite"
     },
     {
       "quote": "There are two types of people in this world: those who like Neil Diamond, and those who don't.",
-      "film": "What About Bob? (1991",
-      "character": "",
-      "actor": "",
+      "film": "What About Bob?",
+      "character": "Bob Wiley",
+      "actor": "Bill Murray",
       "source": "filmsite"
     },
     {
       "quote": "You can't handle the truth!",
       "film": "A Few Good Men",
-      "character": "",
-      "actor": "",
+      "character": "Col. Nathan R. Jessup",
+      "actor": "Jack Nicholson",
       "source": "filmsite"
     },
     {
-      "quote": "There's no crying in baseball!",
+      "quote": "Are you crying? There's no crying! There's no crying in baseball!",
       "film": "A League of Their Own",
-      "character": "",
-      "actor": "",
-      "source": "filmsite"
-    },
-    {
-      "quote": "Oh, for goodness sakes. Get down off that crucifix. Someone needs the wood.",
-      "film": "The Adventures of Priscilla, Queen of the Desert",
-      "character": "",
-      "actor": "",
-      "source": "filmsite"
-    },
-    {
-      "quote": "Sometimes, Dolores, sometimes you have to be a high-ridin' bitch to survive. Sometimes, being a bitch is all a woman has to hang on to.",
-      "film": "Dolores Claiborne",
-      "character": "",
-      "actor": "",
+      "character": "Jimmy Dugan",
+      "actor": "Tom Hanks",
       "source": "filmsite"
     },
     {
       "quote": "You had me at 'hello'.",
       "film": "Jerry Maguire",
-      "character": "",
-      "actor": "",
+      "character": "Dorothy Boyd",
+      "actor": "Renée Zellweger",
       "source": "filmsite"
     },
     {
       "quote": "Show me the money!",
       "film": "Jerry Maguire",
-      "character": "",
-      "actor": "",
+      "character": "Rod Tidwell",
+      "actor": "Cuba Gooding Jr.",
       "source": "filmsite"
     },
     {
       "quote": "This is gonna be fun. We can stay up late, swappin' manly stories, and in the mornin', I'm makin' waffles!",
       "film": "Shrek",
-      "character": "",
-      "actor": "",
+      "character": "Donkey",
+      "actor": "Eddie Murphy",
       "source": "filmsite"
     },
     {
-      "quote": "Why does it cry, Sm&eacute;agol?",
+      "quote": "Master betrayed us! ... Filthy little hobbitses! They stole it from us!",
       "film": "The Lord of the Rings: The Two Towers",
-      "character": "",
-      "actor": "",
+      "character": "Gollum",
+      "actor": "Andy Serkis",
       "source": "filmsite"
     },
     {
@@ -990,14 +899,14 @@
       "source": "classic"
     },
     {
-      "quote": "You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am.\"",
+      "quote": "You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am.",
       "film": "On the Waterfront",
       "character": "Terry Malloy",
       "actor": "Marlon Brando",
       "source": "classic"
     },
     {
-      "quote": "Toto, I've a feeling we're not in Kansas anymore.\"",
+      "quote": "Toto, I've a feeling we're not in Kansas anymore.",
       "film": "The Wizard of Oz",
       "character": "Dorothy Gale",
       "actor": "Judy Garland",
@@ -1039,21 +948,14 @@
       "source": "classic"
     },
     {
-      "quote": "I love the smell of napalm in the morning.",
+      "quote": "Napalm, son. Nothing else in the world smells like that. I love the smell of napalm in the morning.",
       "film": "Apocalypse Now",
       "character": "Lt. Col. Bill Kilgore",
       "actor": "Robert Duvall",
       "source": "classic"
     },
     {
-      "quote": "Love means never having to say you're sorry.",
-      "film": "Love Story",
-      "character": "Jennifer Cavalleri, Oliver Barrett IV",
-      "actor": "Ali MacGraw Ryan O'Neal",
-      "source": "classic"
-    },
-    {
-      "quote": "The stuff that dreams are made of.\"",
+      "quote": "The stuff that dreams are made of.",
       "film": "The Maltese Falcon",
       "character": "Sam Spade",
       "actor": "Humphrey Bogart",
@@ -1071,13 +973,6 @@
       "film": "Citizen Kane",
       "character": "Charles Foster Kane",
       "actor": "Orson Welles",
-      "source": "classic"
-    },
-    {
-      "quote": "Made it, Ma! Top of the world!",
-      "film": "White Heat",
-      "character": "Arthur \"Cody\" Jarrett",
-      "actor": "James Cagney",
       "source": "classic"
     },
     {
@@ -1102,52 +997,17 @@
       "source": "classic"
     },
     {
-      "quote": "Bond. James Bond.",
-      "film": "Dr. No",
-      "character": "James Bond",
-      "actor": "Sean Connery",
-      "source": "classic"
-    },
-    {
-      "quote": "There's no place like home.\"",
-      "film": "The Wizard of Oz",
-      "character": "Dorothy Gale",
-      "actor": "Judy Garland",
-      "source": "classic"
-    },
-    {
-      "quote": "I am big! It's the pictures that got small.",
-      "film": "Sunset Boulevard",
-      "character": "Norma Desmond",
-      "actor": "Gloria Swanson",
-      "source": "classic"
-    },
-    {
-      "quote": "Why don't you come up sometime and see me?\"",
-      "film": "She Done Him Wrong",
-      "character": "Lady Lou",
-      "actor": "Mae West",
-      "source": "classic"
-    },
-    {
-      "quote": "I'm walkin' here! I'm walkin' here! \"",
+      "quote": "I'm walkin' here! I'm walkin' here!",
       "film": "Midnight Cowboy",
       "character": "Ratso\" Rizzo",
       "actor": "Dustin Hoffman",
       "source": "classic"
     },
     {
-      "quote": "Play it, Sam. Play ' As Time Goes By.'\"",
+      "quote": "Play it, Sam. Play ' As Time Goes By.",
       "film": "Casablanca",
       "character": "Ilsa Lund",
       "actor": "Ingrid Bergman",
-      "source": "classic"
-    },
-    {
-      "quote": "I want to be alone.",
-      "film": "Grand Hotel",
-      "character": "Grusinskaya",
-      "actor": "Greta Garbo",
       "source": "classic"
     },
     {
@@ -1172,14 +1032,14 @@
       "source": "classic"
     },
     {
-      "quote": "You're gonna need a bigger boat.\"",
+      "quote": "You're gonna need a bigger boat.",
       "film": "Jaws",
       "character": "Martin Brody",
       "actor": "Roy Scheider",
       "source": "classic"
     },
     {
-      "quote": "Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!\"",
+      "quote": "Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!",
       "film": "The Treasure of the Sierra Madre",
       "character": "Gold Hat",
       "actor": "Alfonso Bedoya",
@@ -1193,17 +1053,10 @@
       "source": "classic"
     },
     {
-      "quote": "Today, I consider myself the luckiest man on the face of the Earth.\"",
-      "film": "The Pride of the Yankees",
-      "character": "Lou Gehrig",
-      "actor": "Gary Cooper",
-      "source": "classic"
-    },
-    {
-      "quote": "If you build it, he will come.\"",
+      "quote": "If you build it, he will come.",
       "film": "Field of Dreams",
       "character": "Shoeless Joe Jackson",
-      "actor": "Ray Liotta (voice)",
+      "actor": "Ray Liotta",
       "source": "classic"
     },
     {
@@ -1211,13 +1064,6 @@
       "film": "Forrest Gump",
       "character": "Forrest Gump",
       "actor": "Tom Hanks",
-      "source": "classic"
-    },
-    {
-      "quote": "We rob banks.",
-      "film": "Bonnie and Clyde",
-      "character": "Clyde Barrow",
-      "actor": "Warren Beatty",
       "source": "classic"
     },
     {
@@ -1242,27 +1088,6 @@
       "source": "classic"
     },
     {
-      "quote": "Stella! Hey, Stella!",
-      "film": "A Streetcar Named Desire",
-      "character": "Stanley Kowalski",
-      "actor": "Marlon Brando",
-      "source": "classic"
-    },
-    {
-      "quote": "Oh, Jerry, don't let's ask for the moon. We have the stars.",
-      "film": "Now, Voyager",
-      "character": "Charlotte Vale",
-      "actor": "Bette Davis",
-      "source": "classic"
-    },
-    {
-      "quote": "Shane. Shane. Come back!",
-      "film": "Shane",
-      "character": "Joey Starrett",
-      "actor": "Brandon deWilde",
-      "source": "classic"
-    },
-    {
       "quote": "Well, nobody's perfect.",
       "film": "Some Like It Hot",
       "character": "Osgood Fielding III",
@@ -1277,31 +1102,24 @@
       "source": "classic"
     },
     {
-      "quote": "Houston, we have a problem.\"",
+      "quote": "Houston, we have a problem.",
       "film": "Apollo 13",
       "character": "Jim Lovell",
       "actor": "Tom Hanks",
       "source": "classic"
     },
     {
-      "quote": "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?\"",
+      "quote": "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?",
       "film": "Dirty Harry",
       "character": "Harry Callahan",
       "actor": "Clint Eastwood",
       "source": "classic"
     },
     {
-      "quote": "One morning I shot an elephant in my pajamas. How he got in my pajamas, I don't know.\"",
+      "quote": "One morning I shot an elephant in my pajamas. How he got in my pajamas, I don't know.",
       "film": "Animal Crackers",
       "character": "Capt. Geoffrey T. Spaulding",
       "actor": "Groucho Marx",
-      "source": "classic"
-    },
-    {
-      "quote": "La-dee-da, la-dee-da.",
-      "film": "Annie Hall",
-      "character": "Annie Hall",
-      "actor": "Diane Keaton",
       "source": "classic"
     },
     {
@@ -1312,14 +1130,14 @@
       "source": "classic"
     },
     {
-      "quote": "Greed, for lack of a better word, is good.\"",
+      "quote": "Greed, for lack of a better word, is good.",
       "film": "Wall Street",
       "character": "Gordon Gekko",
       "actor": "Michael Douglas",
       "source": "classic"
     },
     {
-      "quote": "Keep your friends close, but your enemies closer.\"",
+      "quote": "Keep your friends close, but your enemies closer.",
       "film": "The Godfather Part II",
       "character": "Michael Corleone",
       "actor": "Al Pacino",
@@ -1333,24 +1151,10 @@
       "source": "classic"
     },
     {
-      "quote": "Well, here's another nice mess you've gotten me into!\"",
-      "film": "Sons of the Desert",
-      "character": "Oliver",
-      "actor": "Oliver Hardy",
-      "source": "classic"
-    },
-    {
       "quote": "Say 'hello' to my little friend!",
       "film": "Scarface",
       "character": "Tony Montana",
       "actor": "Al Pacino",
-      "source": "classic"
-    },
-    {
-      "quote": "What a dump.\"",
-      "film": "Beyond the Forest",
-      "character": "Rosa Moline",
-      "actor": "Bette Davis",
       "source": "classic"
     },
     {
@@ -1361,7 +1165,7 @@
       "source": "classic"
     },
     {
-      "quote": "Elementary, my dear Watson.\"",
+      "quote": "Elementary, my dear Watson.",
       "film": "The Adventures of Sherlock Holmes",
       "character": "Sherlock Holmes",
       "actor": "Basil Rathbone",
@@ -1396,41 +1200,6 @@
       "source": "classic"
     },
     {
-      "quote": "Wait a minute, wait a minute. You ain't heard nothin' yet!\"",
-      "film": "The Jazz Singer",
-      "character": "Jakie Rabinowitz/Jack Robin",
-      "actor": "Al Jolson",
-      "source": "classic"
-    },
-    {
-      "quote": "No wire hangers, ever!\"",
-      "film": "Mommie Dearest",
-      "character": "Joan Crawford",
-      "actor": "Faye Dunaway",
-      "source": "classic"
-    },
-    {
-      "quote": "Mother of mercy, is this the end of Rico?",
-      "film": "Little Caesar",
-      "character": "Rico Bandello",
-      "actor": "Edward G. Robinson",
-      "source": "classic"
-    },
-    {
-      "quote": "Forget it, Jake, it's Chinatown.",
-      "film": "Chinatown",
-      "character": "Lawrence Walsh",
-      "actor": "Joe Mantell",
-      "source": "classic"
-    },
-    {
-      "quote": "I have always depended on the kindness of strangers.",
-      "film": "A Streetcar Named Desire",
-      "character": "Blanche DuBois",
-      "actor": "Vivien Leigh",
-      "source": "classic"
-    },
-    {
       "quote": "Hasta la vista, baby.",
       "film": "Terminator 2: Judgment Day",
       "character": "The Terminator",
@@ -1452,7 +1221,7 @@
       "source": "classic"
     },
     {
-      "quote": "Striker: \"Surely you can't be serious.\" Rumack: \"I am serious... and don't call me Shirley.",
+      "quote": "Surely you can't be serious.\" - \"I am serious... and don't call me Shirley.",
       "film": "Airplane!",
       "character": "Ted Striker and Dr. Rumack",
       "actor": "Robert Hays and Leslie Nielsen",
@@ -1475,7 +1244,7 @@
     {
       "quote": "Toga! Toga!",
       "film": "National Lampoon's Animal House",
-      "character": "John \"Bluto\" Blutarsky",
+      "character": "John Bluto Blutarsky",
       "actor": "John Belushi",
       "source": "classic"
     },
@@ -1487,7 +1256,7 @@
       "source": "classic"
     },
     {
-      "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.\"",
+      "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
       "film": "King Kong",
       "character": "Carl Denham",
       "actor": "Robert Armstrong",
@@ -1501,20 +1270,6 @@
       "source": "classic"
     },
     {
-      "quote": "Attica! Attica!",
-      "film": "Dog Day Afternoon",
-      "character": "Sonny Wortzik",
-      "actor": "Al Pacino",
-      "source": "classic"
-    },
-    {
-      "quote": "Sawyer, you're going out a youngster, but you've got to come back a star!",
-      "film": "42nd Street",
-      "character": "Julian Marsh",
-      "actor": "Warner Baxter",
-      "source": "classic"
-    },
-    {
       "quote": "Listen to me, mister. You're my knight in shining armor. Don't you forget it. You're going to get back on that horse, and I'm going to be right behind you, holding on tight, and away we're gonna go, go, go!",
       "film": "On Golden Pond",
       "character": "Ethel Thayer",
@@ -1522,24 +1277,10 @@
       "source": "classic"
     },
     {
-      "quote": "Tell 'em to go out there with all they got and win just one for the Gipper.",
-      "film": "Knute Rockne, All American",
-      "character": "George Gipp",
-      "actor": "Ronald Reagan",
-      "source": "classic"
-    },
-    {
-      "quote": "A martini. Shaken, not stirred.\"",
+      "quote": "A martini. Shaken, not stirred.",
       "film": "Goldfinger",
       "character": "James Bond",
       "actor": "Sean Connery",
-      "source": "classic"
-    },
-    {
-      "quote": "Who's on first? \"",
-      "film": "The Naughty Nineties",
-      "character": "Dexter",
-      "actor": "Bud Abbott",
       "source": "classic"
     },
     {
@@ -1550,16 +1291,9 @@
       "source": "classic"
     },
     {
-      "quote": "Life is a banquet, and most poor suckers are starving to death!",
-      "film": "Auntie Mame",
-      "character": "Mame Dennis",
-      "actor": "Rosalind Russell",
-      "source": "classic"
-    },
-    {
       "quote": "I feel the need—the need for speed!",
       "film": "Top Gun",
-      "character": "Pete Mitchell and Nick Bradshaw",
+      "character": "Maverick and Goose",
       "actor": "Tom Cruise and Anthony Edwards",
       "source": "classic"
     },
@@ -1585,14 +1319,14 @@
       "source": "classic"
     },
     {
-      "quote": "I'm the king of the world!\"",
+      "quote": "I'm the king of the world!",
       "film": "Titanic",
       "character": "Jack Dawson",
       "actor": "Leonardo DiCaprio",
       "source": "classic"
     },
     {
-      "quote": "There's no place like home.\" (also said earlier in the movie)",
+      "quote": "There's no place like home."
       "film": "The Wizard of Oz",
       "character": "Dorothy Gale",
       "actor": "Judy Garland",
@@ -1601,1065 +1335,1051 @@
     {
       "quote": "No, I don't hate Balboa. But I pity the fool, and I will destroy any man who tries to take what I got!",
       "film": "Rocky III",
-      "character": "",
-      "actor": "",
+      "character": "James Clubber Lang",
+      "actor": "Mr. T",
       "source": "filmsite"
     },
     {
-      "quote": "Don't grieve, Admiral. It is logical. The needs of the many outweigh...\" - \"the needs of the few.\" - \"Or the one. I never took the Kobayashi Maru test until now. What do you think of my solution...\" - \"Spock!\" - \"I have been, and always shall be, your friend. Live long and prosper.\" - \"No.",
+      "quote": "I have been, and always shall be, your friend. Live long and prosper.",
       "film": "Star Trek II: The Wrath of Khan",
-      "character": "",
-      "actor": "",
+      "character": "Spock Prime",
+      "actor": "Leonard Nimoy",
       "source": "filmsite"
     },
     {
       "quote": "The Jacuzzi, sir.\" - \"I knew you was all faggots, man. You ain't Jacuzzyin' nobody.\" - \"It's a whirlpool bath, sir. I think you'll enjoy it.\" - \"Hey, hey. Bubbles, man! Say, man, when I was growin' up, we wanted a Jacuzzi, we had to fart in the tub. This is bad!",
       "film": "Trading Places",
-      "character": "",
-      "actor": "",
+      "character": "Coleman and Billy Ray Valentine",
+      "actor": "Denholm Elliott and Eddie Murphy",
       "source": "filmsite"
     },
     {
-      "quote": "It's your friends. Well, f--k you! Now, f--k off, for sure, like totally!",
+      "quote": "It's your friends. Well, fuck you! Now, fuck off, for sure, like totally!",
       "film": "Valley Girl",
-      "character": "",
-      "actor": "",
+      "character": "Randy",
+      "actor": "Nicolas Cage",
       "source": "filmsite"
     },
     {
       "quote": "Do what? Do I ice her? Do I marry her? Which one of these?",
       "film": "Prizzi's Honor",
-      "character": "",
-      "actor": "",
+      "character": "Charley Partanna",
+      "actor": "Jack Nicholson",
       "source": "filmsite"
     },
     {
-      "quote": "Mick, give him your wallet.\" - \"What for?\" - \"He's got a knife.\" - \"Ha, ha, ha. That's not a knife. THAT's a knife!\" - \"S--t!\" - \"Just kids havin' fun. You all right?\" -",
-      "film": "Tarzan",
-      "character": "",
-      "actor": "",
+      "quote": "Mick, give him your wallet.\" - \"What for?\" - \"He's got a knife.\" - \"Ha, ha, ha. That's not a knife. THAT's a knife!",
+      "film": "Crocodile Dundee",
+      "character": "Sue Charlton and Mick Dundee",
+      "actor": "Linda Kozlowski and Paul Hogan",
       "source": "filmsite"
     },
     {
       "quote": "Just because we're holdin' hands doesn't mean we're gonna take warm showers 'til the wee hours of the morning. You hear me?",
       "film": "Heartbreak Ridge",
-      "character": "",
-      "actor": "",
+      "character": "Gunnery Sgt. Tom Highway",
+      "actor": "Clint Eastwood",
       "source": "filmsite"
     },
     {
       "quote": "Sergeant, you get that contraband stogie out of my face before I shove it so far up your ass you'll have to set fire to your nose to light it.",
       "film": "Heartbreak Ridge",
-      "character": "",
-      "actor": "",
+      "character": "Gunnery Sgt. Tom Highway",
+      "actor": "Clint Eastwood",
       "source": "filmsite"
     },
     {
       "quote": "Alright, Mickey's a mouse, Donald's a duck, Pluto's a dog. What's Goofy?",
       "film": "Stand By Me",
-      "character": "",
-      "actor": "",
+      "character": "Gordie Lachance",
+      "actor": "Wil Wheaton",
       "source": "filmsite"
     },
     {
       "quote": "I never had any friends later on like the ones I had when I was twelve. Jesus, does anyone?",
       "film": "Stand By Me",
-      "character": "",
-      "actor": "",
+      "character": "Gordie Lachance",
+      "actor": "Richard Dreyfuss",
       "source": "filmsite"
     },
     {
       "quote": "Scotty, beam me up!\" (not \"Beam me up, Scotty!",
       "film": "Star Trek IV: The Voyage Home",
-      "character": "",
-      "actor": "",
+      "character": "Captain Kirk",
+      "actor": "William Shatner",
       "source": "filmsite"
     },
     {
       "quote": "Do I look like someone who cares what God thinks?",
       "film": "Hellraiser",
-      "character": "",
-      "actor": "",
+      "character": "Pinhead",
+      "actor": "Doug Bradley",
       "source": "filmsite"
     },
     {
       "quote": "(chuckles) We'd have more luck playing Pick-up Sticks with our butt-cheeks than we will getting a flight out of here before daybreak.",
       "film": "Planes, Trains & Automobiles",
-      "character": "",
-      "actor": "",
+      "character": "Del Griffith",
+      "actor": "John Candy",
       "source": "filmsite"
     },
     {
       "quote": "Why did you kiss my ear?\" - \"Why are you holding my hand?\" - \"Where's your other hand?\" - \"Between two pillows.\" - \"Those aren't pillows!\" - (together) \"Aah! Oh, no! Ooh! Oh!",
       "film": "Planes, Trains & Automobiles",
-      "character": "",
-      "actor": "",
+      "character": "Neal Page and Del Griffith",
+      "actor": "Steve Martin and John Candy",
       "source": "filmsite"
     },
     {
       "quote": "Remember how I said I'd rather be with someone for the wrong reasons than alone for the right ones? I'd rather be right. It's gonna feel good to stand on my own...",
       "film": "Some Kind of Wonderful",
-      "character": "",
-      "actor": "",
+      "character": "Keith Nelson",
+      "actor": "Eric Stoltz",
       "source": "filmsite"
     },
     {
-      "quote": "Can I show you something?\" -",
-      "film": "smelling",
-      "character": "",
-      "actor": "",
+      "quote": "She doesn't wear underwear. There are plenty of shopping days left - until adultery - adulthood. Which is to say Christmas, as in Yule. Yule log. Not a log, I don't have a log. But, I mean, you know, if I had a log - not in the sense that you think I said I did. Oh, good golly. 'Tis the season to be merry.",
+      "film": "National Lampoon's Christmas Vacation",
+      "character": "Clark Griswold",
+      "actor": "Chevy Chase",
       "source": "filmsite"
     },
     {
       "quote": "The last time I was inside a woman was when I visited the Statue of Liberty.",
       "film": "Crimes and Misdemeanors",
-      "character": "",
-      "actor": "",
+      "character": "Cliff Stern",
+      "actor": "Woody Allen",
       "source": "filmsite"
     },
     {
-      "quote": "Thank god for the lips...Thank god for the neck...Thank god for kneecaps...Thank god for elbows...Thank god for thighs...Thank god for the right nipple. Thank god for the left nipple. Ah, she likes, she likes, she likes.",
-      "film": "Do The Right Thing",
-      "character": "",
-      "actor": "",
-      "source": "filmsite"
-    },
-    {
-      "quote": "Whaddya think?\" - \"Looks like a penis - only smaller.",
-      "film": "Pink Cadillac",
-      "character": "",
-      "actor": "",
-      "source": "filmsite"
-    },
-    {
-      "quote": "Oh... Oh God... Ooo Oh God... Oh... Ah... Oh... Oh God... Oh yeah, right there... Oh! Oh... Oh, Oh, Oh God, Oh, Yes Yes Yes Yes Yes Yes... Ah... Oh... Oh, Yes Yes Yes.... Oh... Yes Yes Yes Yes Yes Yes... Oh... Oh... Oh... Oh God, Oh... \" - \"I'll have what she's having.",
+      "quote": "Oh... Yes Yes Yes Yes Yes Yes... Oh... Oh... Oh... Oh God, Oh... \" - \"I'll have what she's having.",
       "film": "When Harry Met Sally...",
-      "character": "",
-      "actor": "",
+      "character": "Sally Albright and Older Woman Customer",
+      "actor": "Meg Ryan and Estelle Reiner",
       "source": "filmsite"
     },
     {
       "quote": "Just when I thought I was out, they pull me back in.",
       "film": "The Godfather: Part III",
-      "character": "",
-      "actor": "",
+      "character": "Michael Corleone",
+      "actor": "Al Pacino",
       "source": "filmsite"
     },
     {
       "quote": "As far back as I can remember, I always wanted to be a gangster...To me being a gangster was better than being president of the United States.",
       "film": "GoodFellas",
-      "character": "",
-      "actor": "",
+      "character": "Henry Hill",
+      "actor": "Ray Liotta",
       "source": "filmsite"
     },
     {
       "quote": "Here are your names: Mr. Brown, Mr. White, Mr. Blonde, Mr. Blue, Mr. Orange, and Mr. Pink.\" -",
-      "film": "I",
-      "character": "",
-      "actor": "",
+      "film": "Reservoir Dogs",
+      "character": "Joe Cabot",
+      "actor": "Lawrence Tierney",
       "source": "filmsite"
     },
-    {
-      "quote": "I'll join this conversation on the proviso that we stop bitchin' about people, talkin' about wigs, dresses, bust sizes, penises, drugs, night clubs, and bloody Abba.\" - \"Doesn't give us much to talk about then, does it?",
-      "film": "The Adventures of Priscilla, Queen of the Desert",
-      "character": "",
-      "actor": "",
+	{
+      "quote": "Mmm-mmmm. That is a tasty burger. Vincent, ever have a Big Kahuna Burger?",
+      "film": "Pulp Fiction",
+      "character": "Jules Winnfield",
+      "actor": "Samuel L. Jackson",
       "source": "filmsite"
     },
-    {
-      "quote": "Now listen here, you mullet. Why don't you just light your tampon, and blow your box apart? Because it's the only bang you're ever gonna get, sweetheart!",
-      "film": "The Adventures of Priscilla, Queen of the Desert",
-      "character": "",
-      "actor": "",
-      "source": "filmsite"
-    },
-    {
-      "quote": "Razors pain you; Rivers are damp; Acids stain you; And drugs cause cramp. Guns aren't lawful; Nooses give; Gas smells awful; You might as well live.",
-      "film": "Mrs. Parker and the Vicious Circle",
-      "character": "",
-      "actor": "",
+	{
+      "quote": "Oh man, I shot Marvin in the face!",
+      "film": "Pulp Fiction",
+      "character": "Vincent Vega",
+      "actor": "John Travolta",
       "source": "filmsite"
     },
     {
       "quote": "Now, you got a corpse in a car minus a head in the garage. Take me to it.",
       "film": "Pulp Fiction",
-      "character": "",
-      "actor": "",
+      "character": "Winston Wolfe",
+      "actor": "Harvey Keitel",
       "source": "filmsite"
     },
     {
       "quote": "Get busy livin', or get busy dyin'.",
       "film": "The Shawshank Redemption",
-      "character": "",
-      "actor": "",
+      "character": "Andy Dufresne",
+      "actor": "Tim Robbins",
       "source": "filmsite"
     },
     {
-      "quote": "Get busy livin', or get busy dyin'. That's god-damn right.",
+      "quote": "Andy Dufresne - who crawled through a river of shit and came out clean on the other side.",
       "film": "The Shawshank Redemption",
-      "character": "",
-      "actor": "",
+      "character": "Red",
+      "actor": "Morgan Freeman",
       "source": "filmsite"
     },
     {
       "quote": "Pop quiz, hotshot. There's a bomb on a bus. Once the bus goes 50 miles an hour, the bomb is armed. If it drops below 50, it blows up. What do ya do? What do ya do?",
       "film": "Speed",
-      "character": "",
-      "actor": "",
+      "character": "Howard Payne",
+      "actor": "Dennis Hopper",
       "source": "filmsite"
     },
     {
       "quote": "Oh! As if!",
       "film": "Clueless",
-      "character": "",
-      "actor": "",
+      "character": "Cher Horowitz",
+      "actor": "Alicia Silverstone",
       "source": "filmsite"
     },
     {
       "quote": "...Mr. Hall, I was surfing the crimson wave. I had to haul ass to the ladies.",
       "film": "Clueless",
-      "character": "",
-      "actor": "",
+      "character": "Cher Horowitz",
+      "actor": "Alicia Silverstone",
       "source": "filmsite"
     },
     {
       "quote": "Get off my plane.",
       "film": "Air Force One",
-      "character": "",
-      "actor": "",
+      "character": "President James Marshall",
+      "actor": "Harrison Ford",
       "source": "filmsite"
     },
     {
       "quote": "There he goes. One of God's own prototypes. A high-powered mutant of some kind never even considered for mass production. Too weird to live, and too rare to die.",
       "film": "Fear and Loathing in Las Vegas",
-      "character": "",
-      "actor": "",
+      "character": "Raoul Duke",
+      "actor": "Johnny Depp",
       "source": "filmsite"
     },
     {
       "quote": "I'm also just a girl, standing in front of a boy, asking him to love her.",
       "film": "Notting Hill",
-      "character": "",
-      "actor": "",
+      "character": "Anna Scott",
+      "actor": "Julia Roberts",
       "source": "filmsite"
     },
     {
-      "quote": "I am a man of constant sorrow, I've seen trouble all my days. I bid farewell to old Kentucky, the place where I was born and raised.\" - (Chorus) \"The place where he was born and raised.",
+      "quote": "Looks like the chair for George Nelson. Yup! Gonna electrify me! I'm gonna go off like a Roman candle! Twenty thousand volts chasin' the rabbit through yours truly!",
       "film": "O Brother, Where Art Thou?",
-      "character": "",
-      "actor": "",
+      "character": "George Nelson",
+      "actor": "Michael Badalucco",
       "source": "filmsite"
     },
     {
       "quote": "I thought you were gonna tell me what a bad eugoogoolizer I am?\" - \"A what?\" - \"A eugoogoolizer... one who speaks at funerals.... Or did you think I'd be too stupid to know what a eugoogooly was?",
       "film": "Zoolander",
-      "character": "",
-      "actor": "",
+      "character": "Derek Zoolander",
+      "actor": "Ben Stiller",
       "source": "filmsite"
     },
     {
       "quote": "What is this!? A center for ants?...How can we be expected to teach children to learn how to read if they can't even fit inside the building?...I don't wanna hear your excuses! The center has to be at least three times bigger than this!",
       "film": "Zoolander",
-      "character": "",
-      "actor": "",
+      "character": "Derek Zoolander",
+      "actor": "Ben Stiller",
       "source": "filmsite"
     },
     {
       "quote": "You mean I actually have frickin' sharks with frickin' laser beams attached to their frickin' heads?",
       "film": "Austin Powers in Goldmember",
-      "character": "",
-      "actor": "",
+      "character": "Dr. Evil",
+      "actor": "Mike Myers",
       "source": "filmsite"
     },
     {
-      "quote": "You speak Japanese?\" - \"A little.\" - \"Well, you might be a cunning linguist, but I'm a master debater. Ha, ha, ha.",
+      "quote": "I love goooold!",
       "film": "Austin Powers in Goldmember",
-      "character": "",
-      "actor": "",
+      "character": "Goldmember",
+      "actor": "Mike Myers",
       "source": "filmsite"
     },
     {
       "quote": "Don't worry, Miss Bahmra. In one of our designs, even these mosquito bites will look like juicy, juicy mangos!",
       "film": "Bend It Like Beckham",
-      "character": "",
-      "actor": "",
+      "character": "Dressmaker",
+      "actor": "uncredited",
       "source": "filmsite"
     },
     {
       "quote": "Give 'em the old razzle dazzle. Razzle dazzle 'em. Give 'em an act with lots of flash in it and the reaction will be passionate....",
       "film": "Chicago",
-      "character": "",
-      "actor": "",
+      "character": "Billy Flynn",
+      "actor": "Richard Gere",
       "source": "filmsite"
     },
     {
       "quote": "Someone has to die in order that the rest of us should value life more. It's contrast.",
       "film": "The Hours",
-      "character": "",
-      "actor": "",
+      "character": "Virginia Woolf",
+      "actor": "Nicole Kidman",
       "source": "filmsite"
     },
     {
       "quote": "Dear Leonard. To look life in the face, always, to look life in the face and to know it for what it is. At last, to know it, to love it for what it is, and then, to put it away. Leonard, always the years between us, always the years. Always the love. Always the hours.",
       "film": "The Hours",
-      "character": "",
-      "actor": "",
+      "character": "Virginia Woolf",
+      "actor": "Nicole Kidman",
       "source": "filmsite"
     },
     {
       "quote": "My dad believed in only two things: that Greeks should educate non-Greeks about being Greek, and that any ailment, from psoriasis to poison ivy, could be cured with Windex.\" AND - \"Oh! Look at this. Rash. Somebody gave me the mati.\" - \"Put some Windex on it.\" - \"Oh Gus, please, please!",
       "film": "My Big Fat Greek Wedding",
-      "character": "",
-      "actor": "",
+      "character": "Toula Portokalos, Maria Portokalos, and Gus Portokalos",
+      "actor": "Nia Vardalos, Lainie Kazan, and Michael Constantine",
       "source": "filmsite"
     },
     {
       "quote": "Hello Amanda. You don't know me, but I know you. I want to play a game.",
       "film": "Saw",
-      "character": "",
-      "actor": "",
+      "character": "Jigsaw",
+      "actor": "Tobin Bell",
       "source": "filmsite"
     },
     {
       "quote": "Take car. Go to Mum's. Kill Phil. - 'Sorry.' - Grab Liz. Go to the Winchester. Have a nice cold pint, and wait for all this to blow over. How's that for a slice of fried gold?\" - \"Yeah, boyyyeee!",
       "film": "Shaun of the Dead",
-      "character": "",
-      "actor": "",
+      "character": "Shaun and Ed",
+      "actor": "Simon Pegg and Nick Frost",
       "source": "filmsite"
     },
     {
       "quote": "You've got red on you.",
       "film": "Shaun of the Dead",
-      "character": "",
-      "actor": "",
+      "character": "Ed",
+      "actor": "Nick Frost",
       "source": "filmsite"
     },
     {
-      "quote": "And if they want to drink Merlot, we're drinking Merlot.\" - \"No. If anybody orders Merlot, I'm leavin'. I am not drinking any f--kin' Merlot!",
+      "quote": "And if they want to drink Merlot, we're drinking Merlot.\" - \"No. If anybody orders Merlot, I'm leavin'. I am not drinking any fucking Merlot!",
       "film": "Sideways",
-      "character": "",
-      "actor": "",
+      "character": "Jack and Miles Raymond",
+      "actor": "Thomas Haden Church and Paul Giamatti",
       "source": "filmsite"
     },
     {
-      "quote": "You know how I know that you're gay?\" - \"How?\" -",
-      "film": "Maid in Manhattan",
-      "character": "",
-      "actor": "",
+      "quote": "You know how I know that you're gay?\" - \"How?\" -\"You like the movie Maid in Manhattan",
+      "film": "The 40 Year-Old Virgin",
+      "character": "David and Cal",
+      "actor": "Paul Rudd and Seth Rogen",
       "source": "filmsite"
     },
     {
       "quote": "Can I, can I just make a suggestion for a second? Let me just say, you are, you are puttin' the pussy up on this pedestal. You're just buildin' the pussy up, man.",
       "film": "The 40 Year-Old Virgin",
-      "character": "",
-      "actor": "",
+      "character": "Jay",
+      "actor": "Romany Malco",
+      "source": "filmsite"
+    },
+	{
+      "quote": "You are without doubt the worst pirate I’ve ever heard of.\" - \"But you have heard of me.",
+      "film": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "character": "James Norrington and Jack Sparrow",
+      "actor": "Jack Davenport and Johnny Depp",
       "source": "filmsite"
     },
     {
       "quote": "Why is the rum always gone?",
       "film": "Pirates of the Caribbean: Dead Man's Chest",
-      "character": "",
-      "actor": "",
+      "character": "Jack Sparrow",
+      "actor": "Johnny Depp",
       "source": "filmsite"
     },
     {
       "quote": "For some, Gentlemen, the only way to achieve the impossible, is to believe it is possible.",
       "film": "Alice in Wonderland",
-      "character": "",
-      "actor": "",
+      "character": "Charles Kingsleigh",
+      "actor": "Marton Csokas",
       "source": "filmsite"
     },
     {
       "quote": "Perfection is not just about control. It's also about letting go. Surprise yourself so you can surprise the audience. Transcendence! And very few have it in them.",
       "film": "Black Swan",
-      "character": "",
-      "actor": "",
+      "character": "Thomas Leroy",
+      "actor": "Vincent Cassel",
       "source": "filmsite"
     },
     {
       "quote": "I felt it....Perfect. It was perfect.",
       "film": "Black Swan",
-      "character": "",
-      "actor": "",
+      "character": "Nina Sayers",
+      "actor": "Natalie Portman",
       "source": "filmsite"
     },
     {
       "quote": "Release the Kraken!",
       "film": "Clash of the Titans",
-      "character": "",
-      "actor": "",
+      "character": "Zeus",
+      "actor": "Liam Neeson",
       "source": "filmsite"
     },
     {
       "quote": "But know this. You have nothing to fear, if you have nothing to hide.",
       "film": "Harry Potter and the Deathly Hallows: Part 1",
-      "character": "",
-      "actor": "",
+      "character": "Dolores Umbridge",
+      "actor": "Imelda Staunton",
       "source": "filmsite"
     },
     {
       "quote": "Dobby never meant to kill! Dobby only meant to maim, or seriously injure!",
       "film": "Harry Potter and the Deathly Hallows: Part 1",
-      "character": "",
-      "actor": "",
+      "character": "Dobby",
+      "actor": "Toby Jones",
       "source": "filmsite"
     },
     {
       "quote": "This is Berk. It snows nine months of the year, and hails the other three. Any food that grows here is tough and tasteless. The people that grow here are even more so. The only upsides are the pets. While other places have ponies or parrots, we have - dragons.",
       "film": "How to Train Your Dragon",
-      "character": "",
-      "actor": "",
+      "character": "Hiccup",
+      "actor": "Jay Baruchel",
       "source": "filmsite"
     },
     {
       "quote": "What is the most resilient parasite? Bacteria? A virus? An intestinal worm?...An idea. Resilient, highly contagious. Once an idea has taken hold of the brain, it's almost impossible to eradicate. An idea that is fully formed - fully understood - that sticks. Right in there somewhere.",
       "film": "Inception",
-      "character": "",
-      "actor": "",
+      "character": "Cobb",
+      "actor": "Leonardo DiCaprio",
       "source": "filmsite"
     },
     {
       "quote": "I'm glad he's single because I'm gonna climb that like a tree.",
       "film": "Bridesmaids",
-      "character": "",
-      "actor": "",
+      "character": "Megan",
+      "actor": "Melissa McCarthy",
       "source": "filmsite"
     },
     {
-      "quote": "You are more beautiful than Cinderella! You smell like pine needles, and you have a face like sunshine!",
+      "quote": "Look away! It's coming out of me like lava!",
       "film": "Bridesmaids",
-      "character": "",
-      "actor": "",
+      "character": "Megan",
+      "actor": "Melissa McCarthy",
       "source": "filmsite"
     },
     {
       "quote": "You can't change who your parents are. The only thing that you can change is, uh, how you choose to deal with that.",
       "film": "50/50",
-      "character": "",
-      "actor": "",
+      "character": "Katherine McKay",
+      "actor": "Anna Kendrick",
       "source": "filmsite"
     },
     {
       "quote": "It's hard to believe that the fear of offending can be stronger than the fear of pain, but you know what? It is.",
       "film": "The Girl With the Dragon Tattoo",
-      "character": "",
-      "actor": "",
+      "character": "Lisbeth Salander",
+      "actor": "Rooney Mara",
       "source": "filmsite"
     },
     {
       "quote": "Once more into the fray. Into the last good fight I'll ever know. Live and die on this day. Live and die on this day.",
       "film": "The Grey",
-      "character": "",
-      "actor": "",
+      "character": "Ottway",
+      "actor": "Liam Neeson",
       "source": "filmsite"
     },
     {
       "quote": "It is the quality of one's convictions that determines success, not the number of followers.",
       "film": "Harry Potter and the Deathly Hallows: Part 2",
-      "character": "",
-      "actor": "",
+      "character": "Albus Dumbledore",
+      "actor": "Michael Gambon",
       "source": "filmsite"
     },
     {
       "quote": "You is kind. You is smart. You is important. (repeated) You is smart. You is kind. You is important. Aw, that's so good.",
       "film": "The Help",
-      "character": "",
-      "actor": "",
+      "character": "Aibileen Clark",
+      "actor": "Viola Davis",
       "source": "filmsite"
     },
     {
       "quote": "If you've ever wondered where your dreams come from, you look around - this is where they're made.",
       "film": "Hugo",
-      "character": "",
-      "actor": "",
+      "character": "Hugo Cabret",
+      "actor": "Asa Butterfield",
       "source": "filmsite"
     },
     {
       "quote": "I'm not a Christian. I'm not an Atheist. I'm not Jewish. I'm not Muslim. My religion, what I believe in, is called the Constitution of United States of America.",
       "film": "The Ides of March",
-      "character": "",
-      "actor": "",
+      "character": "Governor Mike Morris",
+      "actor": "George Clooney",
       "source": "filmsite"
     },
     {
       "quote": "The pain didn't take my mind away. My true disability is not having to be in a wheel chair. It's having to be without her.",
       "film": "The Intouchables",
-      "character": "",
-      "actor": "",
+      "character": "Philippe",
+      "actor": "François Cluzet",
       "source": "filmsite"
     },
     {
       "quote": "A gentleman allows a lady to maintain her fictions.",
       "film": "Pirates of the Caribbean: On Stranger Tides",
-      "character": "",
-      "actor": "",
+      "character": "Jack Sparrow",
+      "actor": "Johnny Depp",
       "source": "filmsite"
     },
     {
-      "quote": "So I'm sitting in Jerry's this morning, havin' breakfast, a waitress comes over to me, she's waving a newspaper and she says, 'You see what those Canadians pulled off? Why can't we do something like that?' And I said to her, you know what I said?\" - \"No, what?\" - \"Argo f--k yourself.",
+      "quote": "So I'm sitting in Jerry's this morning, havin' breakfast, a waitress comes over to me, she's waving a newspaper and she says, 'You see what those Canadians pulled off? Why can't we do something like that?' And I said to her, you know what I said?\" - \"No, what?\" - \"Argo fuck yourself.",
       "film": "Argo",
-      "character": "",
-      "actor": "",
+      "character": "Lester Siegel",
+      "actor": "Alan Arkin",
       "source": "filmsite"
     },
     {
       "quote": "Doctor Banner, now might be a really good time for you to get angry.\" - \"That's my secret, Captain. I'm always angry.",
-      "film": "(Marvel's) The Avengers",
-      "character": "",
-      "actor": "",
+      "film": "The Avengers",
+      "character": "Steve Rogers and Bruce Banner",
+      "actor": "Chris Evans and Mark Ruffalo",
       "source": "filmsite"
     },
     {
       "quote": "A hero can be anyone. Even a man doing something as simple and reassuring as putting a coat around a young boy's shoulders to let him know the world hadn't ended.",
       "film": "The Dark Knight Rises",
-      "character": "",
-      "actor": "",
+      "character": "Commissioner Gordon",
+      "actor": "Gary Oldman",
       "source": "filmsite"
     },
     {
       "quote": "Gentlemen, you had my curiosity. Now you have my attention.",
       "film": "Django Unchained",
-      "character": "",
-      "actor": "",
+      "character": "Calvin Candie",
+      "actor": "Leonardo DiCaprio",
       "source": "filmsite"
     },
     {
       "quote": "Hope. It is the only thing stronger than fear. A little hope is effective. A lot of hope is dangerous. A spark is fine, as long as it's contained.",
       "film": "The Hunger Games",
-      "character": "",
-      "actor": "",
+      "character": "President Snow",
+      "actor": "Donald Sutherland",
       "source": "filmsite"
     },
     {
       "quote": "Happy Hunger Games! And may the odds be ever in your favor.",
       "film": "The Hunger Games",
-      "character": "",
-      "actor": "",
+      "character": "Effie Trinket",
+      "actor": "Elizabeth Banks",
       "source": "filmsite"
     },
     {
       "quote": "You know, I've left so many behind. My family, the zoo, India, Anandi. I suppose, in the end, the whole of life becomes an act of letting go. But what always hurts the most is not taking a moment to say goodbye.",
       "film": "Life of Pi",
-      "character": "",
-      "actor": "",
+      "character": "Pi Patel",
+      "actor": "Irrfan Khan",
       "source": "filmsite"
     },
     {
       "quote": "Well, that's who the law says that you cannot touch. But l think l see a lot of lawbreakers up in this house tonight. And l don't see a cop in sight.",
       "film": "Magic Mike",
-      "character": "",
-      "actor": "",
+      "character": "Dallas",
+      "actor": "Matthew McConaughey",
       "source": "filmsite"
     },
     {
       "quote": "For if you figure a way to live without serving a master, any master, then let the rest of us know, will you? For you'd be the first person in the history of the world.",
       "film": "The Master",
-      "character": "",
-      "actor": "",
+      "character": "Lancaster Dodd",
+      "actor": "Philip Seymour Hoffman",
       "source": "filmsite"
     },
     {
       "quote": "To love another person is to see the face of God.",
       "film": "Les Miserables",
-      "character": "",
-      "actor": "",
+      "character": "Jean Valjean",
+      "actor": "Hugh Jackman",
       "source": "filmsite"
     },
     {
       "quote": "My doctor said we can't choose where we come from, but we can choose where we go from there. I know it's not all the answers, but it was enough to start putting these pieces together.",
       "film": "The Perks of Being a Wallflower",
-      "character": "",
-      "actor": "",
+      "character": "Charlie",
+      "actor": "Logan Lerman",
       "source": "filmsite"
     },
     {
       "quote": "Why do I and everyone I love pick people who treat us like we're nothing?\" - \"We accept the love we think we deserve.",
       "film": "The Perks of Being a Wallflower",
-      "character": "",
-      "actor": "",
+      "character": "Charlie and Mr. Anderson",
+      "actor": "Logan Lerman and Paul Rudd",
       "source": "filmsite"
     },
     {
       "quote": "The only way you could meet my crazy...\" - (interrupting) \"was by doing something crazy yourself. Thank you. I love you. I knew it the minute I met you. I'm sorry it took so long for me to catch up. I just got stuck.",
       "film": "Silver Linings Playbook",
-      "character": "",
-      "actor": "",
+      "character": "Pat Solitano",
+      "actor": "Bradley Cooper",
       "source": "filmsite"
     },
     {
       "quote": "Well, I don't want to survive. I want to live.",
       "film": "12 Years A Slave",
-      "character": "",
-      "actor": "",
+      "character": "Solomon Northup",
+      "actor": "Chiwetel Ejiofor",
       "source": "filmsite"
     },
     {
       "quote": "Eliza. Stop! Stop your wailin'. You let yourself be overcome by sorrow, you will drown in it.",
       "film": "12 Years A Slave",
-      "character": "",
-      "actor": "",
+      "character": "Solomon Northup",
+      "actor": "Chiwetel Ejiofor",
       "source": "filmsite"
     },
     {
       "quote": "Hey! Look at me....Look at me....I'm the captain now.",
       "film": "Captain Phillips",
-      "character": "",
-      "actor": "",
+      "character": "Muse",
+      "actor": "Barkhad Abdi",
       "source": "filmsite"
     },
     {
       "quote": "Olaf! You're melting!\" - \"Some people are worth melting for.",
       "film": "Frozen",
-      "character": "",
-      "actor": "",
+      "character": "Anna and Olaf",
+      "actor": "Kristen Bell and Josh Gad",
       "source": "filmsite"
     },
     {
       "quote": "All the bright precious things fade so fast - and they don't come back.",
       "film": "The Great Gatsby",
-      "character": "",
-      "actor": "",
+      "character": "Nick Carraway",
+      "actor": "Tobey Maguire",
       "source": "filmsite"
     },
     {
       "quote": "But Alan says none of us are the same as we were a moment ago, and we shouldn't try to be. It's just too painful.",
       "film": "Her",
-      "character": "",
-      "actor": "",
+      "character": "Samantha",
+      "actor": "Scarlett Johansson",
       "source": "filmsite"
     },
     {
       "quote": "But our lives aren't just measured in years. They're measured in the lives of people we touch around us.",
       "film": "The Hunger Games: Catching Fire",
-      "character": "",
-      "actor": "",
+      "character": "Peeta Mellark",
+      "actor": "Josh Hutcherson",
       "source": "filmsite"
     },
     {
       "quote": "And as my father used to say, failure is the fog through which we glimpse triumph.",
       "film": "Iron Man 3",
-      "character": "",
-      "actor": "",
+      "character": "Tony Stark",
+      "actor": "Robert Downey Jr.",
       "source": "filmsite"
     },
     {
       "quote": "You are weak, Son of El, unsure of yourself. The fact that you possess a sense of morality, and we do not, gives us an evolutionary advantage. And if history has proven anything, it is that evolution always wins.",
       "film": "Man of Steel",
-      "character": "",
-      "actor": "",
+      "character": "Faora-Ul",
+      "actor": "Antje Traue",
       "source": "filmsite"
     },
     {
       "quote": "And then one day, the doctor came and said, 'Mr. Lauda, may I offer a piece of advice? Stop thinking of it as a curse to have been given an enemy in life. It can be a blessing, too. A wise man gets more from his enemies than a fool from his friends.' And you know what? He was right.",
       "film": "Rush",
-      "character": "",
-      "actor": "",
+      "character": "Niki Lauda",
+      "actor": "Daniel Brühl",
       "source": "filmsite"
     },
     {
       "quote": "After a month, we ate the weak. You know what I hate about myself? I know what people taste like. I know that babies taste best...",
       "film": "Snowpiercer",
-      "character": "",
-      "actor": "",
+      "character": "Curtis Everett",
+      "actor": "Chris Evans",
       "source": "filmsite"
     },
     {
       "quote": "...The needs of the many outweigh the needs of the few.",
-      "film": "Star Trek Into Darkness",
-      "character": "",
-      "actor": "",
+      "film": "Star Trek II: The Wrath of Khan",
+      "character": "Spock Prime",
+      "actor": "Leonard Nimoy",
       "source": "filmsite"
     },
     {
-      "quote": "Let me tell you somethin'. There is no nobility in poverty. I have been a rich man, and I have been a poor man. And I choose rich every f--kin' time.",
+      "quote": "Let me tell you somethin'. There is no nobility in poverty. I have been a rich man, and I have been a poor man. And I choose rich every fucking' time.",
       "film": "The Wolf of Wall Street",
-      "character": "",
-      "actor": "",
+      "character": "Jordan Belfort",
+      "actor": "Leonardo DiCaprio",
       "source": "filmsite"
     },
     {
       "quote": "Popularity is the slutty little cousin of prestige, my friend.",
       "film": "Birdman or (The Unexpected Virtue of Ignorance)",
-      "character": "",
-      "actor": "",
+      "character": "Tabitha Dickinson",
+      "actor": "Lindsay Duncan",
       "source": "filmsite"
     },
     {
       "quote": "When you pray for rain, you gotta deal with the mud too.",
       "film": "The Equalizer",
-      "character": "",
-      "actor": "",
+      "character": "Robert McCall",
+      "actor": "Denzel Washington",
       "source": "filmsite"
     },
     {
       "quote": "Ideals are peaceful. History is violent.",
       "film": "Fury",
-      "character": "",
-      "actor": "",
+      "character": "Wardaddy",
+      "actor": "Brad Pitt",
       "source": "filmsite"
     },
     {
       "quote": "Rudeness is merely the expression of fear. People fear they won't get what they want. The most dreadful and unattractive person only needs to be loved, and they will open up like a flower.",
       "film": "The Grand Budapest Hotel",
-      "character": "",
-      "actor": "",
+      "character": "M. Gustave",
+      "actor": "Ralph Fiennes",
       "source": "filmsite"
     },
     {
       "quote": "Farewell, Master Burglar. Go back to your books. And your armchair. Plant your trees. Watch them grow. If more people valued home above gold, this world would be a merrier place.",
       "film": "The Hobbit: The Battle of the Five Armies",
-      "character": "",
-      "actor": "",
+      "character": "Thorin Oakenshield",
+      "actor": "Richard Armitage",
       "source": "filmsite"
     },
     {
       "quote": "Sometimes it's the very people who no one imagines anything of who do the things that no one can imagine.\" AND \"I think that sometimes it is the people who no one imagines anything of who do the thing that no one can imagine.",
       "film": "The Imitation Game",
-      "character": "",
-      "actor": "",
+      "character": "Christopher Morcom and Alan Turing",
+      "actor": "Jack Bannon and Benedict Cumberbatch",
       "source": "filmsite"
     },
     {
       "quote": "Hardest time to lie to somebody is when they're expecting to be lied to.",
       "film": "The Imitation Game",
-      "character": "",
-      "actor": "",
+      "character": "Alan Turing",
+      "actor": "Benedict Cumberbatch",
       "source": "filmsite"
     },
     {
       "quote": "Murph, after you kids came along, your Mom, she said something to me I never quite understood. She said, 'Now, we're just here to be memories for our kids.' I think that now I understand what she meant. Once you're a parent, you're the ghost of your children's future.",
       "film": "Interstellar",
-      "character": "",
-      "actor": "",
+      "character": "Cooper",
+      "actor": "Matthew McConaughey",
       "source": "filmsite"
     },
     {
       "quote": "There should be no boundary to human endeavor. We are all different. However bad life may seem, there is always something you can do, and succeed at. While there is life, there is hope.",
       "film": "The Theory of Everything",
-      "character": "",
-      "actor": "",
+      "character": "Stephen Hawking",
+      "actor": "Eddie Redmayne",
       "source": "filmsite"
     },
     {
       "quote": "Not, not quite my tempo...Not quite my tempo.",
       "film": "Whiplash",
-      "character": "",
-      "actor": "",
+      "character": "Terence Fletcher",
+      "actor": "J.K. Simmons",
       "source": "filmsite"
     },
     {
       "quote": "There are no two words in the English language more harmful than 'good job.",
       "film": "Whiplash",
-      "character": "",
-      "actor": "",
+      "character": "Terence Fletcher",
+      "actor": "J.K. Simmons",
       "source": "filmsite"
     },
     {
       "quote": "But I always say, 'Keep your friends rich and your enemies rich, and wait to find out which is which.",
       "film": "Avengers: Age of Ultron",
-      "character": "",
-      "actor": "",
+      "character": "Tony Stark",
+      "actor": "Robert Downey Jr.",
       "source": "filmsite"
     },
     {
       "quote": "The coward must abandon his dignity before he abandons the field of battle. That, Rudolf Abel will never do.",
       "film": "Bridge of Spies",
-      "character": "",
-      "actor": "",
+      "character": "James Donovan",
+      "actor": "Tom Hanks",
       "source": "filmsite"
     },
     {
       "quote": "Time beat him. Time, you know, takes everybody out. It's undefeated.",
       "film": "Creed",
-      "character": "",
-      "actor": "",
+      "character": "Rocky Balboa",
+      "actor": "Sylvester Stallone",
       "source": "filmsite"
     },
     {
       "quote": "I don't have friends, I got family.",
       "film": "Furious 7",
-      "character": "",
-      "actor": "",
+      "character": "Dominic Toretto",
+      "actor": "Vin Diesel",
       "source": "filmsite"
     },
     {
       "quote": "You only need to hang mean bastards. But mean bastards, you need to hang.",
       "film": "The Hateful Eight",
-      "character": "",
-      "actor": "",
+      "character": "John Ruth",
+      "actor": "Kurt Russell",
       "source": "filmsite"
     },
     {
       "quote": "The key to a happy life is to accept you are never actually in control.",
       "film": "Jurassic World",
-      "character": "",
-      "actor": "",
+      "character": "Simon Masrani",
+      "actor": "Irrfan Khan",
       "source": "filmsite"
     },
     {
       "quote": "Oh, what a day! What a lovely day!",
       "film": "Mad Max: Fury Road",
-      "character": "",
-      "actor": "",
+      "character": "Nux",
+      "actor": "Nicholas Hoult",
       "source": "filmsite"
     },
     {
       "quote": "You know, hope is a mistake. If you can't fix what's broken, you'll, uh, you'll go insane.",
       "film": "Mad Max: Fury Road",
-      "character": "",
-      "actor": "",
+      "character": "Immortan Joe",
+      "actor": "Hugh Keays-Byrne",
       "source": "filmsite"
     },
     {
       "quote": "You will ride eternal, shiny and chrome.",
       "film": "Mad Max: Fury Road",
-      "character": "",
-      "actor": "",
+      "character": "Immortan Joe",
+      "actor": "Hugh Keays-Byrne",
       "source": "filmsite"
     },
     {
-      "quote": "In the face of overwhelming odds, I'm left with only one option. I'm gonna have to science the s--t outta this.",
+      "quote": "In the face of overwhelming odds, I'm left with only one option. I'm gonna have to science the shit outta this.",
       "film": "The Martian",
-      "character": "",
-      "actor": "",
+      "character": "Mark Watney",
+      "actor": "Matt Damon",
       "source": "filmsite"
     },
     {
       "quote": "They say that once you grow crops somewhere, you've officially colonized it. So, technically, I colonized Mars. In your face, Neil Armstrong!",
       "film": "The Martian",
-      "character": "",
-      "actor": "",
+      "character": "Mark Watney",
+      "actor": "Matt Damon",
       "source": "filmsite"
     },
     {
-      "quote": "Visionaries&hellip; Psychiatric wards are full of them.",
+      "quote": "Visionaries ... Psychiatric wards are full of them.",
       "film": "Spectre",
-      "character": "",
-      "actor": "",
+      "character": "Max Denbigh",
+      "actor": "Andrew Scott",
       "source": "filmsite"
     },
     {
       "quote": "If it takes a village to raise a child, it takes a village to abuse one.",
       "film": "Spotlight",
-      "character": "",
-      "actor": "",
+      "character": "Mitchell Garabedian",
+      "actor": "Stanley Tucci",
       "source": "filmsite"
     },
     {
       "quote": "Chewie! We're home!",
       "film": "Star Wars: Episode VII - The Force Awakens",
-      "character": "",
-      "actor": "",
+      "character": "Han Solo",
+      "actor": "Harrison Ford",
       "source": "filmsite"
     },
     {
       "quote": "If you live long enough, you see the same eyes in different people.",
       "film": "Star Wars: Episode VII - The Force Awakens",
-      "character": "",
-      "actor": "",
+      "character": "Han Solo",
+      "actor": "Harrison Ford",
       "source": "filmsite"
     },
     {
       "quote": "Language is the foundation of civilization. It is the glue that holds a people together. It is the first weapon drawn in a conflict.",
       "film": "Arrival",
-      "character": "",
-      "actor": "",
+      "character": "Louise Banks",
+      "actor": "Amy Adams",
       "source": "filmsite"
     },
     {
       "quote": "Criminals are like weeds, Alfred; pull one up, another grows in its place. This is about the future of the world. This is my legacy.",
       "film": "Batman v. Superman: Dawn of Justice",
-      "character": "",
-      "actor": "",
+      "character": "Bruce Wayne",
+      "actor": "Ben Affleck",
       "source": "filmsite"
     },
     {
       "quote": "Our very strength incites challenge. Challenge incites conflict. And conflict... breeds catastrophe.",
       "film": "Captain America: Civil War",
-      "character": "",
-      "actor": "",
+      "character": "Tony Stark",
+      "actor": "Robert Downey Jr.",
       "source": "filmsite"
     },
     {
       "quote": "Life is an endless series of train wrecks with only brief commercial-like breaks of happiness.",
       "film": "Deadpool",
-      "character": "",
-      "actor": "",
+      "character": "Wade Wilson",
+      "actor": "Ryan Reynolds",
       "source": "filmsite"
     },
     {
       "quote": "Now there's absolutely nothing for you to worry about.\" - \"Tell me, has anyone ever believed you when you told them not to worry?\" - \"Well, my philosophy is that worrying means you suffer twice.",
       "film": "Fantastic Beasts and Where to Find Them",
-      "character": "",
-      "actor": "",
+      "character": "Newt Scamander and Jacob Kowalski",
+      "actor": "Eddie Redmayne and Dan Fogler",
       "source": "filmsite"
     },
     {
       "quote": "Separate and equal are two different things. Just 'cause it's the way doesn't make it right.",
       "film": "Hidden Figures",
-      "character": "",
-      "actor": "",
+      "character": "Mary Jackson",
+      "actor": "Janelle Monáe",
       "source": "filmsite"
     },
     {
       "quote": "People will want to go to it, because you're passionate about it. And people love what other people are passionate about. You remind people of what they forgot.",
       "film": "La La Land",
-      "character": "",
-      "actor": "",
+      "character": "Mia Dolan",
+      "actor": "Emma Stone",
       "source": "filmsite"
     },
     {
       "quote": "When you love someone, you work it out. You don't just throw it away. You have to be careful with it, you might never get it again.",
       "film": "Nocturnal Animals",
-      "character": "",
-      "actor": "",
+      "character": "Edward Sheffield",
+      "actor": "Jake Gyllenhaal",
       "source": "filmsite"
     },
     {
       "quote": "We all have dreams. We plan our futures like we're the captains of our fates. But we're passengers. We go where fate takes us.",
       "film": "Passengers",
-      "character": "",
-      "actor": "",
+      "character": "Aurora Lane",
+      "actor": "Jennifer Lawrence",
       "source": "filmsite"
     },
     {
       "quote": "Be careful not to choke on your aspirations, Director.",
       "film": "Rogue One: A Star Wars Story",
-      "character": "",
-      "actor": "",
+      "character": "Darth Vader",
+      "actor": "James Earl Jones",
       "source": "filmsite"
     },
     {
       "quote": "Thinking you can have a happy family and coach little leagues, and make car payments? Normal's a setting on the dryer. People like us, we don't get normal!",
       "film": "Suicide Squad",
-      "character": "",
-      "actor": "",
+      "character": "Harley Quinn",
+      "actor": "Margot Robbie",
       "source": "filmsite"
     },
     {
       "quote": "In this business, the moment you catch feelings is the moment you catch a bullet.",
       "film": "Baby Driver",
-      "character": "",
-      "actor": "",
+      "character": "Doc",
+      "actor": "Kevin Spacey",
       "source": "filmsite"
     },
     {
       "quote": "Sometimes to love someone, you gotta be a stranger.",
       "film": "Blade Runner 2049",
-      "character": "",
-      "actor": "",
+      "character": "Rick Deckard",
+      "actor": "Harrison Ford",
       "source": "filmsite"
     },
     {
       "quote": "Now, sink into the floor.\" - \"Wait, wait, wait, wait, wait.\" - \"Sink. Now, you're in the sunken place.",
       "film": "Get Out",
-      "character": "",
-      "actor": "",
+      "character": "Missy Armitage",
+      "actor": "Catherine Keener",
       "source": "filmsite"
     },
     {
       "quote": "OK, I'm gonna tell ya. Where the sun don't shine. You know, a lot of people think that means the vagina. But actually, it's the butthole. I got drugs in my booty.\" - \"Do you know what? That can cause a lot of infection.\" - \"Girl, you can't get no infection in your booty hole! It's a booty hole!",
       "film": "Girls Trip",
-      "character": "",
-      "actor": "",
+      "character": "Dina and Lisa Cooper",
+      "actor": "Tiffany Haddish and Jada Pinkett Smith",
       "source": "filmsite"
     },
     {
       "quote": "You don't need everyone to love you, Phin. Just a few good people.",
       "film": "The Greatest Showman",
-      "character": "",
-      "actor": "",
+      "character": "Charity Barnum",
+      "actor": "Michelle Williams",
       "source": "filmsite"
     },
     {
       "quote": "A man I knew used to say that hope was like your car keys. Easy to lose, but if you dig around, it's usually close by.",
       "film": "Justice League",
-      "character": "",
-      "actor": "",
+      "character": "Bruce Wayne",
+      "actor": "Ben Affleck",
       "source": "filmsite"
     },
     {
       "quote": "There is no role of the Tempest!\" - \"It is the titular role!\" - \"No! It's a made-up thing so we all can participate.",
       "film": "Lady Bird",
-      "character": "",
-      "actor": "",
+      "character": "Lady Bird McPherson and Julie Steffans",
+      "actor": "Saoirse Ronan and Beanie Feldstein",
       "source": "filmsite"
     },
     {
       "quote": "You know, Logan. This is what life looks like. A home, people who love each other. Safe place. You should take a moment and feel it.",
       "film": "Logan",
-      "character": "",
-      "actor": "",
+      "character": "Charles Xavier",
+      "actor": "Patrick Stewart",
       "source": "filmsite"
     },
     {
       "quote": "I want you flat on your back. Helpless, tender, open with only me to help. And then I want you strong again. You're not going to die. You might wish you're going to die, but you're not going to. You need to settle down a little.\" - \"Kiss me, my girl, before I'm sick.",
       "film": "Phantom Thread",
-      "character": "",
-      "actor": "",
+      "character": "Alma Elson and Reynolds Woodcock",
+      "actor": "Vicky Krieps and Daniel Day-Lewis",
       "source": "filmsite"
     },
     {
       "quote": "When I served under Leia, she would say, 'Hope is like the sun. If you only believe in it when you can see it...' - \"You'll never make it through the night.",
       "film": "Star Wars: Episode VIII - The Last Jedi",
-      "character": "",
-      "actor": "",
+      "character": "Poe Dameron and Amilyn Holdo",
+      "actor": "Oscar Isaac and Laura Dern",
       "source": "filmsite"
     },
     {
       "quote": "They don't deserve your protection.\" - \"It's not about deserve. It's about what you believe. And I believe in love.",
       "film": "Wonder Woman",
-      "character": "",
-      "actor": "",
+      "character": "Steve Trevor and Diana Prince",
+      "actor": "Chris Pine and Gal Gadot",
       "source": "filmsite"
     },
     {
       "quote": "The hardest choices require the strongest wills.",
       "film": "Avengers: Infinity War",
-      "character": "",
-      "actor": "",
+      "character": "Thanos",
+      "actor": "Josh Brolin",
       "source": "filmsite"
     },
     {
       "quote": "Mmm. They say money can't buy happiness, darlings! But it does allow you to give it away!",
       "film": "Bohemian Rhapsody",
-      "character": "",
-      "actor": "",
+      "character": "Freddie Mercury",
+      "actor": "Rami Malek",
       "source": "filmsite"
     },
     {
       "quote": "You know, the world's full of lonely people afraid to make the first move.",
       "film": "Green Book",
-      "character": "",
-      "actor": "",
+      "character": "Don Shirley",
+      "actor": "Mahershala Ali",
       "source": "filmsite"
     },
     {
       "quote": "Assume everyone will betray you, and you will never be disappointed.",
       "film": "Solo: A Star Wars Story",
-      "character": "",
-      "actor": "",
+      "character": "Tobias Beckett",
+      "actor": "Woody Harrelson",
       "source": "filmsite"
     },
     {
       "quote": "Hey!\" - \"What?\" - \"I just wanted to take another look at ya.",
       "film": "A Star Is Born",
-      "character": "",
-      "actor": "",
+      "character": "Jackson Maine and Ally",
+      "actor": "Bradley Cooper and Lady Gaga",
       "source": "filmsite"
     },
     {
       "quote": "Eyes, lungs, pancreas. So many snacks, so little time.",
       "film": "Venom",
-      "character": "",
-      "actor": "",
+      "character": "Venom",
+      "actor": "Tom Hardy",
       "source": "filmsite"
     },
     {
       "quote": "No amount of money ever bought a second of time.",
       "film": "Avengers: Endgame",
-      "character": "",
-      "actor": "",
+      "character": "Tony Stark",
+      "actor": "Robert Downey Jr.",
       "source": "filmsite"
     }
   ]
