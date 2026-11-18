@@ -140,3 +140,33 @@ async function main() {
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });
+
+
+// --- Wikipedia: AFI's 100 Years...100 Movie Quotes ---
+const WIKI_URL = 'https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Movie_Quotes';
+
+function parseWiki(html) {
+  const rows = html.match(/<tr[\s\S]*?<\/tr>/g) || [];
+  const out = [];
+
+  const cell = (s) => stripHtml(s)
+    .replace(/\[\s*[a-z0-9][a-z0-9 ]{0,5}\s*\]/gi, '')   // [1] [p] [nb 1] footnotes
+    .replace(/\s+([,.;:!?])/g, '$1')
+    .replace(/^["'“”‘’]+/, '')
+    .replace(/["'“”‘’]+$/, '')
+    .trim();
+
+  for (const row of rows) {
+    if (!/<td/i.test(row)) continue;
+    const cells = (row.match(/<t[dh][\s\S]*?<\/t[dh]>/g) || []).map(cell);
+    if (cells.length < 6) continue;
+
+    // only the AFI table has rank + quotation + character + actor + film + year
+    if (!/^\d{1,3}$/.test(cells[0])) continue;
+    if (!/^(19|20)\d{2}$/.test(cells[5])) continue;
+    if (!cells[1] || !cells[4]) continue;
+
+    out.push({ quote: cells[1], film: cells[4], character: cells[2], actor: cells[3], source: 'classic' });
+  }
+
+  return out;
