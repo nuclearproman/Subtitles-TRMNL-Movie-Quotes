@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-18",
-  "count": 341,
+  "count": 345,
   "quotes": [
     {
       "quote": "There are only two things I can't stand in this world: People who are intolerant of other people's cultures, and the Dutch.",
@@ -2388,6 +2388,34 @@
       "character": "Tony Stark",
       "actor": "Robert Downey Jr.",
       "source": "filmsite"
+    },
+    {
+      "quote": "Okay, go get us sets near, but not too near the bridal party. I'm going to go drop this box of fresh Wyoming air.",
+      "film": "Wedding Crashers",
+      "character": "John Beckwith",
+      "actor": "Owen Wilson",
+      "source": "filmsite"
+    },
+    {
+      "quote": "The painting was a gift, Todd. I'm taking it with me.",
+      "film": "Wedding Crashers",
+      "character": "Jeremy Grey",
+      "actor": "Vince Vaughn",
+      "source": "filmsite"
+    },
+    {
+      "quote": "Why Ed does this mean we're not friends anymore? You know Ed, if I thought you weren't my friend... I just don't think I could bear it!",
+      "film": "Tombstone",
+      "character": "Doc Holliday",
+      "actor": "Val Kilmer",
+      "source": "filmsite"
+    },
+    {
+      "quote": "You're so drunk, you can't hit nothin'. In fact, you're probably seeing double.\" - \"I have two guns, one for each of ya.",
+      "film": "Tombstone",
+      "character": "Billy Clanton and Doc Holliday",
+      "actor": "Thomas Haden Church and Val Kilmer",
+      "source": "buzzfeed"
     }
   ]
 }
