@@ -6,6 +6,7 @@ const BUZZ_URL = 'https://www.buzzfeed.com/evelinamedina/funny-movie-quotes';
 
 
 const FILM_URLS = [
+  'https://www.filmsite.org/greatquotes2.html',
   'https://www.filmsite.org/1980squotes.html',
   'https://www.filmsite.org/1990squotes.html',
   'https://www.filmsite.org/2000squotes.html',
