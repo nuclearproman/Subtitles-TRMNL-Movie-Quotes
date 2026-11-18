@@ -4,8 +4,7 @@ import { existsSync } from 'node:fs';
 
 const BUZZ_URL = 'https://www.buzzfeed.com/evelinamedina/funny-movie-quotes';
 
-// 1990s is verified working. uncomment any others that exist — the script prints
-// a count per page, so a 0 or a 404 tells you immediately.
+
 const FILM_URLS = [
   'https://www.filmsite.org/1980squotes.html',
   'https://www.filmsite.org/1990squotes.html',
