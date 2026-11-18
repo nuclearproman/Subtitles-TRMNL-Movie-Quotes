@@ -8,3 +8,5 @@ Quotes from BuzzFeed, filmsite.org and Wikipedia
 
 The markup for the plugin is already in place. 
 
+Edit: My approach to this changed a bit. The file movie_quotes.csv is now the master data source for the quotes.json code. The quotes.json file auto-rebuilds every time movie_quotes.csv is updated and committed. I find this much more efficient and easily expandable. 
+
