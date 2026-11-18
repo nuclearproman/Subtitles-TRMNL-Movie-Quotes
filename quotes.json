@@ -1,0 +1,811 @@
+{
+  "generated": "2026-11-18",
+  "count": 115,
+  "quotes": [
+    {
+      "quote": "There are only two things I can't stand in this world: People who are intolerant of other people's cultures, and the Dutch.",
+      "film": "Austin Powers in Goldmember",
+      "character": "Nigel Powers",
+      "actor": "Michael Caine",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Now that's a real shame when folks be throwin' away a perfectly good white boy like that.",
+      "film": "Better Off Dead",
+      "character": "Tree Trimmer",
+      "actor": "Steven Williams",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I was on top! Who the fuck is on top their first time!",
+      "film": "Lady Bird",
+      "character": "Christine \"Lady Bird' McPherson",
+      "actor": "Saoirse Ronan",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Babe, look. If this relationship is going to work out between us, I need to feel free to party with a bunch of strangers whenever I feel like it. I will text you.",
+      "film": "The Lego Movie",
+      "character": "Batman",
+      "actor": "Will Arnett",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I wish I spent more time playing catch with you, and less time training my body and mind to kill you in a machete fight.",
+      "film": "Walk Hard: The Dewey Cox Story",
+      "character": "Pa Cox",
+      "actor": "Raymond J. Barry",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "By the way, our son Hezekiah hates us cause he knows we're both closeted, but we're trying to make it work for him. But he's not happy. And yeah, guess what? The deacon's fucking the evangelist, man! He's fucking the evangelist!",
+      "film": "Bottoms",
+      "character": "Josie",
+      "actor": "Ayo Edebiri",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "When the fuck did we get ice cream?!",
+      "film": "The Ringer",
+      "character": "Winston",
+      "actor": "Geoffrey Arend",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I didn't really relate to that song because, you know, I had different things in my Jeep than he had in his Jeep.",
+      "film": "Pop Star: Never Stop Never Stopping",
+      "character": "Himself",
+      "actor": "Nas",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I lost my virginity in what I thought was a park but... it turned out to be a graveyard, and now the ghost spirits live inside my eggs waiting to be reborn.",
+      "film": "Booksmart",
+      "character": "Gigi",
+      "actor": "Billie Lourd",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "As a child, I yearned for the mines.",
+      "film": "A Minecraft Movie",
+      "character": "Steve",
+      "actor": "Jack Black",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "When I'm around you, I kind of feel like I'm on drugs. Not that I do drugs. Unless you do drugs, in which case I do them all the time. All of them.",
+      "film": "Scott Pilgrim vs. The World",
+      "character": "Scott Pilgrim",
+      "actor": "Michael Cera",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I am McLovin!",
+      "film": "Superbad",
+      "character": "Fogell/McLovin",
+      "actor": "Christopher Mintz-Plasse",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "So you rob trains and banks, but you can't steal this pussy for a night?",
+      "film": "Sinners",
+      "character": "Mary",
+      "actor": "Hailee Steinfeld",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Why don't you make like a tree and get outta here?",
+      "film": "Back to the Future Part II",
+      "character": "Biff Tannen",
+      "actor": "Thomas F. Wilson",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "You think one year of medical school entitles you to plow through the riches of my Emersonian mind?",
+      "film": "Megalopolis",
+      "character": "Cesar Catilina",
+      "actor": "Adam Driver",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I'm lonely. I'm totally lost. I mean, I'm literally lost. I've never been in this part of the airport before.",
+      "film": "Warm Bodies",
+      "character": "R",
+      "actor": "Nicholas Hoult",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Well, fuck me gently with a chainsaw. Do I look like Mother Teresa?",
+      "film": "Heathers",
+      "character": "Heather Chandler",
+      "actor": "Kim Walker",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Vote for me, and all your wildest dreams will come true.",
+      "film": "Napoleon Dynamite",
+      "character": "Pedro Sánchez",
+      "actor": "Efren Ramirez",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "You see, a pimp's love is very different from that of a square.",
+      "film": "Idiocracy",
+      "character": "Officer Collins",
+      "actor": "Michael McCafferty",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "No, I like to rock n' roll all night and *part* of every day. I usually have errands... I can only rock from like 1-3.",
+      "film": "Role Models",
+      "character": "Danny",
+      "actor": "Paul Rudd",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Two things: You keep your liver-spotted hands off my beautiful mother. She's a saint! And then you sit down and you write Dale and Brennan a check for $10,000.",
+      "film": "Step Brothers",
+      "character": "Brennan Huff",
+      "actor": "Will Ferrell",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I live in a swamp! I put up signs! I'm a terrifying ogre! What do I have to do to get a little privacy?",
+      "film": "Shrek",
+      "character": "Shrek",
+      "actor": "Mike Myers",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Well, you're two penises short of a Shania Twain reimagination band!",
+      "film": "Nick and Norah's Infinite Playlist",
+      "character": "Nick",
+      "actor": "Michael Cera",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "So maybe I don't know what the Civil War was, or who invented the helicopter even though I own one, but I did beat The Legend of Zelda before I could walk. I'm thinking about getting metal legs. It's a risky operation, but it'll be worth it.",
+      "film": "Grandma's Boy",
+      "character": "J.P.",
+      "actor": "Joel David Moore",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "You want to talk about mothers? You wanna talk about mothers! It's mother time, OK? Your mother's so dumb she went to Dr. Dre for a Pap smear! 'Something's wrong, Dr. Dre! My coochie's doing a beatbox!",
+      "film": "White Chicks",
+      "character": "Kevin Copeland",
+      "actor": "Shawn Wayans",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Benjamin is nobody's friend. If Benjamin were an ice cream flavor, he'd be pralines and dick.",
+      "film": "Wayne's World",
+      "character": "Garth Algar",
+      "actor": "Dana Carvey",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I just don't see how having somebody piss on my face is going to help me sell Lou Ferrigno's house.",
+      "film": "I Love You, Man",
+      "character": "Peter Klaven",
+      "actor": "Paul Rudd",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I'm glad he's single because I'm going to climb that like a tree.",
+      "film": "Bridesmaids",
+      "character": "Megan",
+      "actor": "Melissa McCarthy",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "It's the weekend, Budnick. I don't know you. You do not exist.",
+      "film": "The Hangover",
+      "character": "Phil Wenneck",
+      "actor": "Bradley Cooper",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "They're pretty good, except for one little problem. That little guy right there. He is nipple number five. A good dairy cow should have, like, four.",
+      "film": "Napoleon Dynamite",
+      "character": "Pedro Sánchez",
+      "actor": "Efren Ramirez",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "You are a human affront to all women, and I am a woman.",
+      "film": "When Harry Met Sally...",
+      "character": "Sally Albright",
+      "actor": "Meg Ryan",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I wouldn't let you sleep in my room if you were growing on my ass.",
+      "film": "Home Alone",
+      "character": "Buzz McCallister",
+      "actor": "Devin Ratray",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "What you've just said is one of the most insanely idiotic things I have ever heard. At no point in your rambling, incoherent response were you even close to anything that could be considered a rational thought. Everyone in this room is now dumber for having listened to it.",
+      "film": "Billy Madison",
+      "character": "Principal Max Anderson",
+      "actor": "Josh Mostel",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "If you can dodge a wrench, you can dodge a ball.",
+      "film": "Dodgeball: A True Underdog Story",
+      "character": "Patches O'Houlihan",
+      "actor": "Rip Torn",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "It’s pronounced 'Fronkensteen.",
+      "film": "Young Frankenstein",
+      "character": "Dr. Frederick Frankenstein",
+      "actor": "Gene Wilder",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I like to picture Jesus in a tuxedo T-shirt because it says I want to be formal, but I'm here to party.",
+      "film": "Talladega Nights: The Ballad of Ricky Bobby",
+      "character": "Cal Naughton, Jr.",
+      "actor": "John C. Reilly",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Last night you were unhinged. You were like some desperate, howling demon. You frightened me. Do it again.",
+      "film": "The Addams Family",
+      "character": "Morticia Addams",
+      "actor": "Anjelica Houston",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Looks like I picked the wrong week to quit sniffing glue.",
+      "film": "Airplane",
+      "character": "Steve McCroskey",
+      "actor": "Lloyd Bridges",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Your mother was a hamster and your father smelt of elderberries.",
+      "film": "Monty Python and the Holy Grail",
+      "character": "French soldier",
+      "actor": "John Cleese",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "She thinks I'm a fascist? I don't control the railways or the flow of commerce!",
+      "film": "Barbie",
+      "character": "Barbie",
+      "actor": "Margot Robbie",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "When life gives you lemons, just say ‘fuck the lemons’, and bail.",
+      "film": "Forgetting Sarah Marshall",
+      "character": "Chuch",
+      "actor": "Paul Rudd",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I don’t want to be rude, but may I have a drink? I had three or four before I got here, but they’re beginning to wear off. And you know how that is.",
+      "film": "The Awful Truth",
+      "character": "Lucy Warriner",
+      "actor": "Irene Dunne",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Gentlemen, you can't fight in here. This is the war room!",
+      "film": "Doctor Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "character": "President Merkin Muffley",
+      "actor": "Peter Sellers",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Did you just look at me? Did you? Look at me! Look at me! How dare you? Close your eyes!",
+      "film": "The Favourite",
+      "character": "Queen Anne",
+      "actor": "Olivia Colman",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Is that your gun in your pocket or are you just glad to see me?",
+      "film": "Sextette",
+      "character": "Marlo Manners",
+      "actor": "Mae West",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "That is mahogany!",
+      "film": "The Hunger Games",
+      "character": "Effie Trinket",
+      "actor": "Elizabeth Banks",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "You read my diary?\" \"At first I did not know it was your diary, I thought it was a very sad handwritten book.",
+      "film": "Bridesmaids",
+      "character": "Annie and Brynn",
+      "actor": "Kristen Wiig and Rebel Wilson",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "That's it, dishonor! Dishonor on your whole family! Dishonor on you, dishonor on your cow!",
+      "film": "Mulan",
+      "character": "Mushu",
+      "actor": "Eddie Murphy",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "It's just a flesh wound.",
+      "film": "Monty Python and the Holy Grail",
+      "character": "The Black Knight",
+      "actor": "John Cleese",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Someday, you gonna get bitch-slapped, and I'm not gonna do a thing to stop it.",
+      "film": "10 Things I Hate About You",
+      "character": "Mr. Morgan",
+      "actor": "Daryl Mitchell",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I'm a man!\" \"Well, nobody's perfect.",
+      "film": "Some Like It Hot",
+      "character": "Jerry and Osgood",
+      "actor": "Jack Lemmon and Joe E. Brown",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Instead of the mahi mahi, may I just get the one mahi because I’m not that hungry?",
+      "film": "The House Bunny",
+      "character": "Shelley Darlingson",
+      "actor": "Anna Farris",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Pardon my French, but Cameron is so tight that if you stuck a lump of coal up his ass, in two weeks you'd have a diamond.",
+      "film": "Ferris Bueller's Day Off",
+      "character": "Ferris Bueller",
+      "actor": "Matthew Broderick",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I am serious…and don't call me Shirley.",
+      "film": "Airplane!",
+      "character": "Dr. Rumack",
+      "actor": "Leslie Nielsen",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I'm in a glass case of emotion!",
+      "film": "Anchorman: The Legend of Ron Burgundy",
+      "character": "Ron Burgundy",
+      "actor": "Will Ferrell",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "That still only counts as one!",
+      "film": "The Lord of the Rings: The Return of the King",
+      "character": "Gimli",
+      "actor": "John Rhys-Davies",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Will you marry me? Did he leave you any money? Answer the second question first.",
+      "film": "Duck Soup",
+      "character": "Rufus T. Firefly",
+      "actor": "Groucho Marx",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "What is this? A center for ants?",
+      "film": "Zoolander",
+      "character": "Derek Zoolander",
+      "actor": "Ben Stiller",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Greater good?' I am your wife! I'm the greatest good you're ever gonna get!",
+      "film": "The Incredibles",
+      "character": "Honey Best",
+      "actor": "Kimberly Adair Clark",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "By all means, move at a glacial pace. You know how that thrills me.",
+      "film": "The Devil Wears Prada",
+      "character": "Miranda Priestly",
+      "actor": "Meryl Streep",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "It's not a man purse. It's called a satchel. Indiana Jones wears one.",
+      "film": "The Hangover",
+      "character": "Alan Garner",
+      "actor": "Zach Galifianakis",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Oh, right, to call you stupid would be an insult to stupid people. … I’ve worn dresses with higher IQs.",
+      "film": "A Fish Called Wanda",
+      "character": "Wanda",
+      "actor": "Jamie Lee Curtis",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Don't point that gun at him. He's an unpaid intern.",
+      "film": "The Life Aquatic with Steve Zissou",
+      "character": "Steve Zissou",
+      "actor": "Bill Murray",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "You're a virgin who can't drive.",
+      "film": "Clueless",
+      "character": "Tai",
+      "actor": "Brittany Murphy",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Leave the gun. Take the cannoli.",
+      "film": "The Godfather",
+      "character": "Clemenza",
+      "actor": "Richard S. Castellano",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "If I'm not back in five minutes, just wait longer.",
+      "film": "Ace Ventura: Pet Detective",
+      "character": "Ace Ventura",
+      "actor": "Jim Carrey",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "If we get any more white people in here, this is gonna be a suburb.",
+      "film": "Hairspray",
+      "character": "Motormouth Maybelle",
+      "actor": "Queen Latifah",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Snap out of it!",
+      "film": "Moonstruck",
+      "character": "Loretta Castorini",
+      "actor": "Cher",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Ariel, you're under a lot of pressure down here.",
+      "film": "The Little Mermaid",
+      "character": "Sebastian",
+      "actor": "Samuel E. Wright",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I have had it with these motherfucking snakes on this motherfucking plane!",
+      "film": "Snakes on a Plane",
+      "character": "Agent Neville Flynn",
+      "actor": "Samuel L. Jackson",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Americans really have shown themselves to be a nation of ingrates; only by having children can we begin to understand such dynamic.",
+      "film": "Love & Friendship",
+      "character": "Lady Susan",
+      "actor": "Kate Beckinsale",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Bye, Felicia",
+      "film": "Friday",
+      "character": "Craig Jones",
+      "actor": "Ice Cube",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Look up idiot in the dictionary, you know what you'll find?\" \"A picture of me?\" \"No! The definition of the word idiot, which you fucking are!",
+      "film": "Kiss Kiss Bang Bang",
+      "character": "Perry and Harry",
+      "actor": "Val Kilmer and Robert Downey, Jr.",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Looks are everything. You ever heard David Beckham speak? It's like he mouth-sexed a can of helium. Think Ryan Reynolds got this far on his superior acting method?",
+      "film": "Deadpool",
+      "character": "Wade Wilson",
+      "actor": "Ryan Reynolds",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "This job would be great if it wasn’t for the fucking customers.",
+      "film": "Clerks",
+      "character": "Randal Graves",
+      "actor": "Jeff Anderson",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "If I had a dick, this is the part where I'd tell you to suck it.",
+      "film": "Lake Placid",
+      "character": "Delores Bickerman",
+      "actor": "Betty White",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I make a habit out of doing things that people say I can't do: Walk through fire, waterski blindfolded, take up piano at a late age.",
+      "film": "Spy",
+      "character": "Rick Ford",
+      "actor": "Jason Statham",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Mother, I do not need a blind date. Particularly not with some verbally incontinent spinster who drinks like a fish, smokes like a chimney, and dresses like her mother.",
+      "film": "Bridget Jones's Diary",
+      "character": "Mark Darcy",
+      "actor": "Colin Firth",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I have nipples, Greg. Could you milk me?",
+      "film": "Meet the Parents",
+      "character": "Jack Byrnes",
+      "actor": "Robert De Niro",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Here's the deal. I'm the best there is. Plain and simple. I wake up in the morning, and I piss excellence.",
+      "film": "Talladega Nights: The Ballad of Ricky Bobby",
+      "character": "Ricky Bobby",
+      "actor": "Will Ferrell",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I was married. My husband cheated on me left and right. He made me feel like I was crazy all the time. One day, he tells me it's my fault he saw other women. So, I picked up a knife and told him it was his fault I was stabbing him. Yeah, I did a little jail time, but it was worth it.",
+      "film": "Living Out Loud",
+      "character": "Liz Bailey",
+      "actor": "Queen Latifah",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "She doesn't even go here!",
+      "film": "Mean Girls",
+      "character": "Damian Leigh",
+      "actor": "Daniel Franzese",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "If you are going to come along with us, please refrain from saying things like 'preach' or 'go girl' or any other colloquialism that you may have looked up in an urban dictionary.",
+      "film": "Girls Trip",
+      "character": "Ryan Pierce",
+      "actor": "Regina Hall",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Don't give me that tone! That sarcastic, contemptuous tone that means you know everything because you're a man, and I know nothing because I'm a woman.",
+      "film": "The Birdcage",
+      "character": "Albert",
+      "actor": "Nathan Lane",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I think we drink virgin blood because it sounds cool.\" \"I think of it like this. If you are going to eat a sandwich, you would just enjoy it more if you knew no one had fucked it.",
+      "film": "What We Do in the Shadows",
+      "character": "Deacon and Vladislav",
+      "actor": "Jonny Brugh and Jemaine Clement",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I like your outfit, too, except when I dress up as a frigid bitch, I try not to look so constipated.",
+      "film": "Legally Blonde",
+      "character": "Elle Woods",
+      "actor": "Reese Witherspoon",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "According to the map, we've only gone 4 inches.",
+      "film": "Dumb and Dumber",
+      "character": "Harry Dunne",
+      "actor": "Jeff Daniels",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "That rug really tied the room together, did it not?",
+      "film": "The Big Lebowski",
+      "character": "The Dude",
+      "actor": "Jeff Bridges",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "You're dizzy because you played Russian roulette with your vagina.",
+      "film": "Obvious Child",
+      "character": "Donna Stern",
+      "actor": "Jenny Slate",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "You are a sad, strange little man, and you have my pity.",
+      "film": "Toy Story",
+      "character": "Buzz Lightyear",
+      "actor": "Tim Allen",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "My father would womanize. He would drink. He would make outrageous claims like he invented the question mark.",
+      "film": "Austin Powers: International Man of Mystery",
+      "character": "Dr. Evil",
+      "actor": "Mike Myers",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "I don't want to have to read you the riot act, but I am going to have to read you some extracts from the riot act.",
+      "film": "In the Loop",
+      "character": "Simon Foster",
+      "actor": "Tom Hollander",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "You know, the thing about keeping your mouth closed is it prevents you from speaking.\" \"Sure. Unless, of course, you're a ventriloquist.",
+      "film": "The Nice Guys",
+      "character": "Holland March and Jackson Healy",
+      "actor": "Ryan Gosling and Russell Crowe",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Right now, the killer is being surrounded by a web of deduction, forensic science, and the latest in technology such as two-way radios and e-mail.",
+      "film": "The Pink Panther",
+      "character": "Inspector Jacques Clouseau",
+      "actor": "Steve Martin",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "That is my least vulnerable spot.",
+      "film": "Casablanca",
+      "character": "Rick Blaine",
+      "actor": "Humphrey Bogart",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Please. Have mercy. I’ve been wearing the same underwear since Tuesday.",
+      "film": "Planes, Trains & Automobiles",
+      "character": "Neal Page",
+      "actor": "Steve Martin",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "YOU'RE AN INANIMATE FUCKING OBJECT!",
+      "film": "In Bruges",
+      "character": "Harry",
+      "actor": "Ralph Fiennes",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Harry, you might not believe this, but I never considered not sleeping with you a sacrifice.",
+      "film": "When Harry Met Sally...",
+      "character": "Sally Albright",
+      "actor": "Meg Ryan",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "He's so fluffy, I'm gonna die!",
+      "film": "Despicable Me",
+      "character": "Agnes",
+      "actor": "Elsie Fisher",
+      "source": "buzzfeed"
+    },
+    {
+      "quote": "Just when I thought I was out, they pull me back in.",
+      "film": "The Godfather: Part III",
+      "character": "",
+      "actor": "",
+      "source": "filmsite"
+    },
+    {
+      "quote": "As far back as I can remember, I always wanted to be a gangster...To me being a gangster was better than being president of the United States.",
+      "film": "GoodFellas",
+      "character": "",
+      "actor": "",
+      "source": "filmsite"
+    },
+    {
+      "quote": "Hasta la vista , baby.",
+      "film": "Terminator 2: Judgment Day",
+      "character": "",
+      "actor": "",
+      "source": "filmsite"
+    },
+    {
+      "quote": "Here are your names: Mr. Brown, Mr. White, Mr. Blonde, Mr. Blue, Mr. Orange, and Mr. Pink.\" -",
+      "film": "I",
+      "character": "",
+      "actor": "",
+      "source": "filmsite"
+    },
+    {
+      "quote": "I'll join this conversation on the proviso that we stop bitchin' about people, talkin' about wigs, dresses, bust sizes, penises, drugs, night clubs, and bloody Abba.\" - \"Doesn't give us much to talk about then, does it?",
+      "film": "The Adventures of Priscilla, Queen of the Desert",
+      "character": "",
+      "actor": "",
+      "source": "filmsite"
+    },
+    {
+      "quote": "Now listen here, you mullet. Why don't you just light your tampon, and blow your box apart? Because it's the only bang you're ever gonna get, sweetheart!",
+      "film": "The Adventures of Priscilla, Queen of the Desert",
+      "character": "",
+      "actor": "",
+      "source": "filmsite"
+    },
+    {
+      "quote": "Razors pain you; Rivers are damp; Acids stain you; And drugs cause cramp. Guns aren't lawful; Nooses give; Gas smells awful; You might as well live.",
+      "film": "Mrs. Parker and the Vicious Circle",
+      "character": "",
+      "actor": "",
+      "source": "filmsite"
+    },
+    {
+      "quote": "Now, you got a corpse in a car minus a head in the garage. Take me to it.",
+      "film": "Pulp Fiction",
+      "character": "",
+      "actor": "",
+      "source": "filmsite"
+    },
+    {
+      "quote": "Get busy livin', or get busy dyin'.",
+      "film": "The Shawshank Redemption",
+      "character": "",
+      "actor": "",
+      "source": "filmsite"
+    },
+    {
+      "quote": "Get busy livin', or get busy dyin'. That's god-damn right.",
+      "film": "The Shawshank Redemption",
+      "character": "",
+      "actor": "",
+      "source": "filmsite"
+    },
+    {
+      "quote": "Pop quiz, hotshot. There's a bomb on a bus. Once the bus goes 50 miles an hour, the bomb is armed. If it drops below 50, it blows up. What do ya do? What do ya do?",
+      "film": "Speed",
+      "character": "",
+      "actor": "",
+      "source": "filmsite"
+    },
+    {
+      "quote": "Oh! As if!",
+      "film": "Clueless",
+      "character": "",
+      "actor": "",
+      "source": "filmsite"
+    },
+    {
+      "quote": "...Mr. Hall, I was surfing the crimson wave. I had to haul ass to the ladies.",
+      "film": "Clueless",
+      "character": "",
+      "actor": "",
+      "source": "filmsite"
+    },
+    {
+      "quote": "Get off my plane.",
+      "film": "Air Force One",
+      "character": "",
+      "actor": "",
+      "source": "filmsite"
+    },
+    {
+      "quote": "There he goes. One of God's own prototypes. A high-powered mutant of some kind never even considered for mass production. Too weird to live, and too rare to die.",
+      "film": "Fear and Loathing in Las Vegas",
+      "character": "",
+      "actor": "",
+      "source": "filmsite"
+    },
+    {
+      "quote": "I'm also just a girl, standing in front of a boy, asking him to love her.",
+      "film": "Notting Hill",
+      "character": "",
+      "actor": "",
+      "source": "filmsite"
+    }
+  ]
+}
