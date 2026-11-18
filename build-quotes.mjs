@@ -116,19 +116,6 @@ async function main() {
   pool.push(...wiki);
   }
 
-  // optional: your classic pool exported from Render, as an array of {quote, film, character}
-  if (existsSync('classic.json')) {
-    const raw = JSON.parse(await readFile('classic.json', 'utf8'));
-    const list = Array.isArray(raw) ? raw : (raw.quotes || []);
-    console.log(`classic.json... ${list.length}`);
-    for (const c of list) {
-      const quote = clean(c.quote);
-      const film = clean(c.film);
-      if (!quote || !film) continue;
-      pool.push({ quote, film, character: clean(c.character), actor: clean(c.actor), source: 'classic' });
-    }
-  }
-
   const seen = new Set();
   const quotes = pool.filter((q) => {
     const key = q.quote.toLowerCase().replace(/[^a-z0-9]/g, '');
