@@ -37,10 +37,21 @@ def main():
         raise ValueError("No quote rows found; refusing to overwrite quotes.json.")
 
     if OUTPUT.exists():
-        with OUTPUT.open("r", encoding="utf-8") as file:
-            data = json.load(file)
-        if not isinstance(data, dict):
-            raise ValueError("Existing quotes.json must contain a top-level object.")
+        try:
+            with OUTPUT.open("r", encoding="utf-8") as file:
+                data = json.load(file)
+
+            if not isinstance(data, dict):
+                raise ValueError(
+                    "Existing quotes.json must contain a top-level object."
+                )
+
+        except json.JSONDecodeError as error:
+            print(
+                f"Warning: Existing quotes.json is malformed ({error}). "
+                "Rebuilding it from the CSV."
+            )
+            data = {}
     else:
         data = {}
 
